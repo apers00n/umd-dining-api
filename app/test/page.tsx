@@ -43,39 +43,41 @@ export default function Home() {
 
   return (
     <div className="grid p-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 auto-rows-min">
-      {Object.entries(menu).map(([section, items], i) => (
-        <Card
-          key={section}
-          className={`bg-fuchsia-100 hover:shadow-lg transition-all duration-200 p-0 rounded-xl
+      {Object.entries(menu).map(
+        ([section, items]: [string, any], i: number) => (
+          <Card
+            key={section}
+            className={`bg-fuchsia-100 hover:shadow-lg transition-all duration-200 p-0 rounded-xl
         ${items.length > 5 ? "md:col-span-2" : "md:col-span-1"}`}
-        >
-          <Accordion>
-            <AccordionItem
-              className="text-fuchsia-900 font-semibold text-lg rounded-t-xl p-4"
-              key="1"
-              aria-label={section}
-              title={section}
-            >
-              <CardBody className={`space-y-2 ${concertOne.className}`}>
-                {items.map((item, j) => {
-                  const name = Object.keys(item)[0];
-                  const { tags } = item[name];
-                  return (
-                    <div key={j}>
-                      <p className="font-medium text-fuchsia-900">{name}</p>
-                      {tags && tags.length > 0 && (
-                        <p className="text-xs text-fuchsia-700">
-                          {tags.join(", ")}
-                        </p>
-                      )}
-                    </div>
-                  );
-                })}
-              </CardBody>
-            </AccordionItem>
-          </Accordion>
-        </Card>
-      ))}
+          >
+            <Accordion>
+              <AccordionItem
+                className="text-fuchsia-900 font-semibold text-lg rounded-t-xl p-4"
+                key="1"
+                aria-label={section}
+                title={section}
+              >
+                <CardBody className={`space-y-2 ${concertOne.className}`}>
+                  {items.map((item: any, j: number) => {
+                    const name = Object.keys(item)[0];
+                    const { tags } = item[name];
+                    return (
+                      <div key={j}>
+                        <p className="font-medium text-fuchsia-900">{name}</p>
+                        {tags && tags.length > 0 && (
+                          <p className="text-xs text-fuchsia-700">
+                            {tags.join(", ")}
+                          </p>
+                        )}
+                      </div>
+                    );
+                  })}
+                </CardBody>
+              </AccordionItem>
+            </Accordion>
+          </Card>
+        ),
+      )}
     </div>
   );
 }
