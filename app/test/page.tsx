@@ -60,7 +60,7 @@ export default function Home() {
 
   return (
     <div className="bg-fuchsia-100/50 h-screen">
-      <div className="text-fuchsia-900 text-5xl p-5 py-15 flex justify-center">
+      <div className="text-fuchsia-900 text-center text-5xl p-5 py-15 flex justify-center">
         South Dining Hall
       </div>
       <Tabs
