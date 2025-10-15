@@ -8,8 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "@heroui/accordion": "^2.2.24",
+    "@heroui/button": "^2.2.27",
+    "@heroui/react": "^2.8.5",
+    "@heroui/system": "^2.4.23",
+    "@heroui/theme": "^2.4.23",
     "cheerio": "^1.1.2",
-    "next": "15.5.5",
+    "framer-motion": "^12.23.24",
+    "next": "^15.5.5",
     "node-fetch": "^3.3.2",
     "react": "19.1.0",
     "react-dom": "19.1.0",
