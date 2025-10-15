@@ -1,0 +1,6545 @@
+{
+  "Brunch": {
+    "Broiler Works": [
+      {
+        "Cheeseburger with American Cheese": {
+          "link": "label.aspx?RecNumAndPort=126301*1",
+          "tags": [
+            "Contains dairy",
+            "Contains soy"
+          ]
+        }
+      },
+      {
+        "Grilled Chicken Teryaki Thigh": {
+          "link": "label.aspx?RecNumAndPort=126659*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "Contains sesame",
+            "HalalFriendly"
+          ]
+        }
+      },
+      {
+        "Grilled Hot Dog": {
+          "link": "label.aspx?RecNumAndPort=126035*1",
+          "tags": []
+        }
+      }
+    ],
+    "Broiler Works Sides": [
+      {
+        "BBQ Sauce": {
+          "link": "label.aspx?RecNumAndPort=220112*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Bacon Bits": {
+          "link": "label.aspx?RecNumAndPort=090271*1",
+          "tags": []
+        }
+      },
+      {
+        "Banana Peppers": {
+          "link": "label.aspx?RecNumAndPort=220062*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Dijon Mustard": {
+          "link": "label.aspx?RecNumAndPort=220126*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Grilled Mushrooms": {
+          "link": "label.aspx?RecNumAndPort=150319*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Grilled Onions": {
+          "link": "label.aspx?RecNumAndPort=150317*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Grilled Peppers": {
+          "link": "label.aspx?RecNumAndPort=150318*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Guacamole": {
+          "link": "label.aspx?RecNumAndPort=220053*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pico de Gallo": {
+          "link": "label.aspx?RecNumAndPort=220051*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Potato Hamburger Roll": {
+          "link": "label.aspx?RecNumAndPort=119388*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Potato Hot Dog Roll": {
+          "link": "label.aspx?RecNumAndPort=119387*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Seasoned Crinkle Cut Fries": {
+          "link": "label.aspx?RecNumAndPort=141120*4",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Shredded Lettuce": {
+          "link": "label.aspx?RecNumAndPort=126332*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Red Onion": {
+          "link": "label.aspx?RecNumAndPort=090254*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Tomatoes": {
+          "link": "label.aspx?RecNumAndPort=150314*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spicy Brown Mustard": {
+          "link": "label.aspx?RecNumAndPort=220110*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Grill Works": [
+      {
+        "Cranberry Chicken Sausage Breakfast": {
+          "link": "label.aspx?RecNumAndPort=080193*1",
+          "tags": []
+        }
+      },
+      {
+        "Pancakes Blueberry": {
+          "link": "label.aspx?RecNumAndPort=119366*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pancakes Chocolate Chips": {
+          "link": "label.aspx?RecNumAndPort=119368*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pancakes Plain": {
+          "link": "label.aspx?RecNumAndPort=119365*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Grill Works Sides": [
+      {
+        "Apple Filling": {
+          "link": "label.aspx?RecNumAndPort=090432*1",
+          "tags": []
+        }
+      },
+      {
+        "Breakfast Potatoes w/ Peppers & Onions": {
+          "link": "label.aspx?RecNumAndPort=141123*4",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Butter": {
+          "link": "label.aspx?RecNumAndPort=220065*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Maple Syrup": {
+          "link": "label.aspx?RecNumAndPort=119363*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Margarine": {
+          "link": "label.aspx?RecNumAndPort=220066*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Roaster": [
+      {
+        "Smoked Pork Butt": {
+          "link": "label.aspx?RecNumAndPort=060093*4",
+          "tags": []
+        }
+      }
+    ],
+    "Roaster Sides": [
+      {
+        "Assorted Mini Rolls": {
+          "link": "label.aspx?RecNumAndPort=019373*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Bread Stuffing": {
+          "link": "label.aspx?RecNumAndPort=019363*3",
+          "tags": [
+            "Contains dairy",
+            "Contains gluten",
+            "Contains soy"
+          ]
+        }
+      },
+      {
+        "Chef's Fresh Mashed Potatoes": {
+          "link": "label.aspx?RecNumAndPort=141110*3",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chicken Gravy": {
+          "link": "label.aspx?RecNumAndPort=135104*1",
+          "tags": [
+            "Contains gluten"
+          ]
+        }
+      },
+      {
+        "Collard Green with Smoked Turkey": {
+          "link": "label.aspx?RecNumAndPort=150304*3",
+          "tags": []
+        }
+      },
+      {
+        "Fresh Roasted Carrots": {
+          "link": "label.aspx?RecNumAndPort=150308*3",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Fresh Steamed Broccoli": {
+          "link": "label.aspx?RecNumAndPort=150309*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Fresh Steamed Green Beans": {
+          "link": "label.aspx?RecNumAndPort=150306*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Green Peas and Pearl Onions": {
+          "link": "label.aspx?RecNumAndPort=150993*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Jerk Roasted Sweet Potatoes": {
+          "link": "label.aspx?RecNumAndPort=150312*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Roasted Brussels Sprouts Butternut Squash and Feta Cheese": {
+          "link": "label.aspx?RecNumAndPort=150999*3",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sweet Corn Pudding": {
+          "link": "label.aspx?RecNumAndPort=150991*3",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "White Cheddar Mac and Cheese": {
+          "link": "label.aspx?RecNumAndPort=115257*4",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Chef's Table": [
+      {
+        "Cranberry Chicken Sausage Breakfast": {
+          "link": "label.aspx?RecNumAndPort=080193*1",
+          "tags": []
+        }
+      },
+      {
+        "Scrambled Cheesy Cheddar Egg": {
+          "link": "label.aspx?RecNumAndPort=040065*4",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Scrambled Eggs": {
+          "link": "label.aspx?RecNumAndPort=040060*4",
+          "tags": [
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Chicken Slider": {
+          "link": "label.aspx?RecNumAndPort=100981*4",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Waffle French Toast": {
+          "link": "label.aspx?RecNumAndPort=100211*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Chef's Table Sides": [
+      {
+        "American Cheese Sliced": {
+          "link": "label.aspx?RecNumAndPort=220082*1",
+          "tags": [
+            "Contains dairy",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Breakfast Potatoes w/ Peppers & Onions": {
+          "link": "label.aspx?RecNumAndPort=141123*4",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cheddar Cheese Sliced": {
+          "link": "label.aspx?RecNumAndPort=220085*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cheddar Green Chili Roasted Potatoes": {
+          "link": "label.aspx?RecNumAndPort=100391*4",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cinnamon Apple French Toast Casserole": {
+          "link": "label.aspx?RecNumAndPort=100381*4",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Grilled English Muffin": {
+          "link": "label.aspx?RecNumAndPort=019383*1",
+          "tags": [
+            "Contains dairy",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Hard Boiled Egg (Breakfast)": {
+          "link": "label.aspx?RecNumAndPort=040066*1",
+          "tags": [
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Margarine": {
+          "link": "label.aspx?RecNumAndPort=220066*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Over Hard Fried Eggs": {
+          "link": "label.aspx?RecNumAndPort=040063*1",
+          "tags": [
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Scrambled Egg Whites": {
+          "link": "label.aspx?RecNumAndPort=040067*4",
+          "tags": [
+            "Contains egg",
+            "smartchoice",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Southwestern Vegetable Hash": {
+          "link": "label.aspx?RecNumAndPort=150943*3",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Cream Cheese": {
+          "link": "label.aspx?RecNumAndPort=100322*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Sour Cream": {
+          "link": "label.aspx?RecNumAndPort=100321*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Vanilla Soy-Free Yogurt": {
+          "link": "label.aspx?RecNumAndPort=100213*4",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Warm  Cinnamon Berry Quinoa": {
+          "link": "label.aspx?RecNumAndPort=100384*4",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Pasta": [
+      {
+        "Bacon Bits": {
+          "link": "label.aspx?RecNumAndPort=090271*1",
+          "tags": []
+        }
+      },
+      {
+        "Diced Green Peppers": {
+          "link": "label.aspx?RecNumAndPort=090291*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Diced Ham": {
+          "link": "label.aspx?RecNumAndPort=060062*1",
+          "tags": []
+        }
+      },
+      {
+        "Diced Onions": {
+          "link": "label.aspx?RecNumAndPort=090292*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Egg Whites": {
+          "link": "label.aspx?RecNumAndPort=040069*4",
+          "tags": [
+            "Contains egg",
+            "smartchoice",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Liquid Eggs (Omelet Station)": {
+          "link": "label.aspx?RecNumAndPort=040061*4",
+          "tags": [
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Shredded Cheddar Cheese": {
+          "link": "label.aspx?RecNumAndPort=090265*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Mushroom": {
+          "link": "label.aspx?RecNumAndPort=090248*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spinach": {
+          "link": "label.aspx?RecNumAndPort=090201*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Tomatoes Diced": {
+          "link": "label.aspx?RecNumAndPort=090262*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Pizza": [
+      {
+        "Pan Buffalo Shrimp Pizza": {
+          "link": "label.aspx?RecNumAndPort=117129*1",
+          "tags": [
+            "Contains Shellfish",
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy"
+          ]
+        }
+      },
+      {
+        "Pan Cheddar Hot Dog Pizza": {
+          "link": "label.aspx?RecNumAndPort=117131*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy"
+          ]
+        }
+      },
+      {
+        "Pan Cheese Pizza": {
+          "link": "label.aspx?RecNumAndPort=117116*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy"
+          ]
+        }
+      },
+      {
+        "Pan Italian Sausage Pizza": {
+          "link": "label.aspx?RecNumAndPort=117118*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy"
+          ]
+        }
+      },
+      {
+        "Pan Pepperoni Pizza": {
+          "link": "label.aspx?RecNumAndPort=117115*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy"
+          ]
+        }
+      },
+      {
+        "Pan Vegetable Pizza": {
+          "link": "label.aspx?RecNumAndPort=117117*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Salad Bar": [
+      {
+        "Bacon Bits": {
+          "link": "label.aspx?RecNumAndPort=090271*1",
+          "tags": []
+        }
+      },
+      {
+        "Balsamic Dressing": {
+          "link": "label.aspx?RecNumAndPort=090279*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Black Beans": {
+          "link": "label.aspx?RecNumAndPort=090210*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Blue Cheese Dressing": {
+          "link": "label.aspx?RecNumAndPort=090297*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Blueberry Yogurt": {
+          "link": "label.aspx?RecNumAndPort=090382*3",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Caesar Dressing": {
+          "link": "label.aspx?RecNumAndPort=090280*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains fish"
+          ]
+        }
+      },
+      {
+        "Cantaloupe": {
+          "link": "label.aspx?RecNumAndPort=090217*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cereal Granola": {
+          "link": "label.aspx?RecNumAndPort=090302*4",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chicken Congee": {
+          "link": "label.aspx?RecNumAndPort=100219*4",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "HalalFriendly"
+          ]
+        }
+      },
+      {
+        "Chipotle Hummus": {
+          "link": "label.aspx?RecNumAndPort=220058*1",
+          "tags": [
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Chopped Green Onions": {
+          "link": "label.aspx?RecNumAndPort=220069*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Kale": {
+          "link": "label.aspx?RecNumAndPort=090204*2",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Lettuce": {
+          "link": "label.aspx?RecNumAndPort=090202*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Romaine": {
+          "link": "label.aspx?RecNumAndPort=090203*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cottage Cheese": {
+          "link": "label.aspx?RecNumAndPort=090263*3",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Crouton": {
+          "link": "label.aspx?RecNumAndPort=090273*1",
+          "tags": [
+            "Contains dairy",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cubed Bread": {
+          "link": "label.aspx?RecNumAndPort=019406*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cucumber": {
+          "link": "label.aspx?RecNumAndPort=090261*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Diced Green Pepper": {
+          "link": "label.aspx?RecNumAndPort=090255*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Eggs": {
+          "link": "label.aspx?RecNumAndPort=090269*1",
+          "tags": [
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "FF Italian": {
+          "link": "label.aspx?RecNumAndPort=090278*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "French Dressing": {
+          "link": "label.aspx?RecNumAndPort=090287*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Fresh Blueberry": {
+          "link": "label.aspx?RecNumAndPort=090324*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Fresh Strawberry": {
+          "link": "label.aspx?RecNumAndPort=090323*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Fried Shallot": {
+          "link": "label.aspx?RecNumAndPort=220109*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Grapefruit Half": {
+          "link": "label.aspx?RecNumAndPort=180004*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Grapes": {
+          "link": "label.aspx?RecNumAndPort=090216*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Greek Dressing": {
+          "link": "label.aspx?RecNumAndPort=090392*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Greek Pita Flat Bread": {
+          "link": "label.aspx?RecNumAndPort=119385*1",
+          "tags": [
+            "Contains dairy",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Grits": {
+          "link": "label.aspx?RecNumAndPort=090326*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Ham Sliced": {
+          "link": "label.aspx?RecNumAndPort=126379*3",
+          "tags": []
+        }
+      },
+      {
+        "Hummus": {
+          "link": "label.aspx?RecNumAndPort=220059*1",
+          "tags": [
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Italian Creamy": {
+          "link": "label.aspx?RecNumAndPort=090283*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Kimchi": {
+          "link": "label.aspx?RecNumAndPort=100218*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Lite Caesar Dressing": {
+          "link": "label.aspx?RecNumAndPort=090281*1",
+          "tags": [
+            "Contains dairy",
+            "Contains fish",
+            "Contains soy"
+          ]
+        }
+      },
+      {
+        "Lite Ranch Dressing": {
+          "link": "label.aspx?RecNumAndPort=090275*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Lite Soy Sauce": {
+          "link": "label.aspx?RecNumAndPort=220115*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Oatmeal": {
+          "link": "label.aspx?RecNumAndPort=090327*3",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Olive Oil": {
+          "link": "label.aspx?RecNumAndPort=903369*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Parmesan Cheese": {
+          "link": "label.aspx?RecNumAndPort=220105*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Parmesan Peppercorn Dressing": {
+          "link": "label.aspx?RecNumAndPort=090277*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Peaches in syrup": {
+          "link": "label.aspx?RecNumAndPort=090212*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pears in syrup": {
+          "link": "label.aspx?RecNumAndPort=090213*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pineapple": {
+          "link": "label.aspx?RecNumAndPort=090215*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Ranch Dressing": {
+          "link": "label.aspx?RecNumAndPort=090274*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Raspberry Vinaigrette Lite": {
+          "link": "label.aspx?RecNumAndPort=090276*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Red Pepper": {
+          "link": "label.aspx?RecNumAndPort=090256*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Red Wine Vinegar": {
+          "link": "label.aspx?RecNumAndPort=903371*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Roasted Corn": {
+          "link": "label.aspx?RecNumAndPort=150350*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sesame Oriental Dressing": {
+          "link": "label.aspx?RecNumAndPort=090282*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Shredded Cheddar Cheese": {
+          "link": "label.aspx?RecNumAndPort=090265*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Lemons": {
+          "link": "label.aspx?RecNumAndPort=220070*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Red Onion": {
+          "link": "label.aspx?RecNumAndPort=090254*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Special K Berry": {
+          "link": "label.aspx?RecNumAndPort=090319*4",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Strawberry Yogurt": {
+          "link": "label.aspx?RecNumAndPort=090299*3",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "TOFU": {
+          "link": "label.aspx?RecNumAndPort=090268*3",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Thousand Island Dressing": {
+          "link": "label.aspx?RecNumAndPort=090284*1",
+          "tags": [
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Tomato Wedges": {
+          "link": "label.aspx?RecNumAndPort=220104*1",
+          "tags": []
+        }
+      },
+      {
+        "Turkey Sliced": {
+          "link": "label.aspx?RecNumAndPort=126378*3",
+          "tags": [
+            "smartchoice"
+          ]
+        }
+      },
+      {
+        "Yogurt Plain": {
+          "link": "label.aspx?RecNumAndPort=090298*3",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Treats": [
+      {
+        "Apple": {
+          "link": "label.aspx?RecNumAndPort=090219*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Banana": {
+          "link": "label.aspx?RecNumAndPort=090218*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Caramel Sauce": {
+          "link": "label.aspx?RecNumAndPort=102009*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cherry Sorbet Soft Serve": {
+          "link": "label.aspx?RecNumAndPort=102021*4",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chocolate Chip Cookie": {
+          "link": "label.aspx?RecNumAndPort=119376*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chocolate Soft Serve Ice Cream": {
+          "link": "label.aspx?RecNumAndPort=102016*4",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Dole Mango Sorbet Soft Serve": {
+          "link": "label.aspx?RecNumAndPort=102019*4",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Dole Pinapple Sorbet Soft Serve": {
+          "link": "label.aspx?RecNumAndPort=102020*4",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Dole Raspberry Sorbet Soft Serve": {
+          "link": "label.aspx?RecNumAndPort=102018*4",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Hot Fudge Sauce": {
+          "link": "label.aspx?RecNumAndPort=102008*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Kale Banana Peach Smoothie": {
+          "link": "label.aspx?RecNumAndPort=220098*4",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "M&M Candy Cookie": {
+          "link": "label.aspx?RecNumAndPort=119379*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Mini Cinnamon Bun": {
+          "link": "label.aspx?RecNumAndPort=019376*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Mini Croissant": {
+          "link": "label.aspx?RecNumAndPort=119374*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Oatmeal Raisin Cookie": {
+          "link": "label.aspx?RecNumAndPort=119378*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Orange": {
+          "link": "label.aspx?RecNumAndPort=090220*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pineapple Blueberry Yogurt Smoothie": {
+          "link": "label.aspx?RecNumAndPort=220091*4",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Salted Caramel Soft Serve Ice Cream": {
+          "link": "label.aspx?RecNumAndPort=102017*4",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sugar Cookie": {
+          "link": "label.aspx?RecNumAndPort=202010*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vanilla Soft Serve Ice Cream": {
+          "link": "label.aspx?RecNumAndPort=102015*4",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Warm Brownie Cheesecake": {
+          "link": "label.aspx?RecNumAndPort=102023*2",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Warm Brownie": {
+          "link": "label.aspx?RecNumAndPort=102022*2",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "White Chocolate Macadamia Nut Cookie": {
+          "link": "label.aspx?RecNumAndPort=119380*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Waffle, Doughnut, Bagel Bar": [
+      {
+        "Bagels": {
+          "link": "label.aspx?RecNumAndPort=119360*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Butter": {
+          "link": "label.aspx?RecNumAndPort=220065*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chocolate Milk": {
+          "link": "label.aspx?RecNumAndPort=233006*8",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chocolate Pea Milk": {
+          "link": "label.aspx?RecNumAndPort=233007*8",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cream Cheese Onion and Chive": {
+          "link": "label.aspx?RecNumAndPort=090333*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Donuts": {
+          "link": "label.aspx?RecNumAndPort=119364*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Maple Syrup": {
+          "link": "label.aspx?RecNumAndPort=119363*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Margarine": {
+          "link": "label.aspx?RecNumAndPort=220066*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Milk 2%": {
+          "link": "label.aspx?RecNumAndPort=233004*8",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Oatmilk": {
+          "link": "label.aspx?RecNumAndPort=233009*8",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Plain Cream Cheese": {
+          "link": "label.aspx?RecNumAndPort=090331*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Skim Milk": {
+          "link": "label.aspx?RecNumAndPort=233005*8",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Strawberry Cream Cheese": {
+          "link": "label.aspx?RecNumAndPort=090332*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Strawberry Topping": {
+          "link": "label.aspx?RecNumAndPort=090329*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vanilla Soy Milk": {
+          "link": "label.aspx?RecNumAndPort=233008*8",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Waffle": {
+          "link": "label.aspx?RecNumAndPort=090328*7",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Whipped Cream": {
+          "link": "label.aspx?RecNumAndPort=090330*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Soup Du Jour": [
+      {
+        "Chicken Noodle Soup": {
+          "link": "label.aspx?RecNumAndPort=090347*6",
+          "tags": [
+            "Contains egg",
+            "Contains gluten"
+          ]
+        }
+      },
+      {
+        "Cream of Tomato Soup": {
+          "link": "label.aspx?RecNumAndPort=020153*6",
+          "tags": [
+            "Contains dairy",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Loaded Baked Potato Soup": {
+          "link": "label.aspx?RecNumAndPort=090357*6",
+          "tags": [
+            "Contains dairy",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Deli+": [
+      {
+        "6\" Flour Tortilla": {
+          "link": "label.aspx?RecNumAndPort=220073*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Aji Amarillo Rice": {
+          "link": "label.aspx?RecNumAndPort=145142*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "CIlantro": {
+          "link": "label.aspx?RecNumAndPort=529018*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Caraotas Negras": {
+          "link": "label.aspx?RecNumAndPort=151148*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cotija Cheese": {
+          "link": "label.aspx?RecNumAndPort=220137*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Guacamole": {
+          "link": "label.aspx?RecNumAndPort=220053*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Limes": {
+          "link": "label.aspx?RecNumAndPort=529005*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Mexican Corn Chicken Street Taco": {
+          "link": "label.aspx?RecNumAndPort=126647*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg"
+          ]
+        }
+      },
+      {
+        "Pico de Gallo": {
+          "link": "label.aspx?RecNumAndPort=135031*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Red Onion Diced 1/2\"": {
+          "link": "label.aspx?RecNumAndPort=090492*1",
+          "tags": []
+        }
+      },
+      {
+        "Roasted Grape Tomato Yellow Squash Verde Taco": {
+          "link": "label.aspx?RecNumAndPort=126646*1",
+          "tags": [
+            "Contains dairy",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Jalapeno Peppers": {
+          "link": "label.aspx?RecNumAndPort=220067*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sour Cream": {
+          "link": "label.aspx?RecNumAndPort=220050*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Taco Shell": {
+          "link": "label.aspx?RecNumAndPort=220074*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Tortilla Chip": {
+          "link": "label.aspx?RecNumAndPort=141117*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Deli": [
+      {
+        "American Cheese Sliced": {
+          "link": "label.aspx?RecNumAndPort=220082*1",
+          "tags": [
+            "Contains dairy",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Carrot Sticks": {
+          "link": "label.aspx?RecNumAndPort=220055*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Celery Sticks": {
+          "link": "label.aspx?RecNumAndPort=220056*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cheddar Cheese Sliced": {
+          "link": "label.aspx?RecNumAndPort=220085*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chicken Salad": {
+          "link": "label.aspx?RecNumAndPort=126381*3",
+          "tags": [
+            "Contains egg"
+          ]
+        }
+      },
+      {
+        "Chipotle Mayonnaise": {
+          "link": "label.aspx?RecNumAndPort=220120*1",
+          "tags": [
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Deli Wheat Bread Sliced": {
+          "link": "label.aspx?RecNumAndPort=019375*2",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Diced Green Pepper": {
+          "link": "label.aspx?RecNumAndPort=090255*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Guacamole": {
+          "link": "label.aspx?RecNumAndPort=220053*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Ham Sliced": {
+          "link": "label.aspx?RecNumAndPort=126379*3",
+          "tags": []
+        }
+      },
+      {
+        "Jalapenos": {
+          "link": "label.aspx?RecNumAndPort=529004*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Leaf Lettuce": {
+          "link": "label.aspx?RecNumAndPort=150313*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Mayonnaise": {
+          "link": "label.aspx?RecNumAndPort=220079*1",
+          "tags": [
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Multi-grain Bread": {
+          "link": "label.aspx?RecNumAndPort=019365*2",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pepperoni Sliced": {
+          "link": "label.aspx?RecNumAndPort=060100*1",
+          "tags": []
+        }
+      },
+      {
+        "Pickle Slice": {
+          "link": "label.aspx?RecNumAndPort=220108*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Plain Tortilla 12\"": {
+          "link": "label.aspx?RecNumAndPort=019368*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Potato Chips": {
+          "link": "label.aspx?RecNumAndPort=220077*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Provolone Cheese Sliced": {
+          "link": "label.aspx?RecNumAndPort=220084*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pullman White Bread Sliced": {
+          "link": "label.aspx?RecNumAndPort=019374*2",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Rye Bread": {
+          "link": "label.aspx?RecNumAndPort=019366*2",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Salami Sliced": {
+          "link": "label.aspx?RecNumAndPort=060178*1",
+          "tags": []
+        }
+      },
+      {
+        "Sliced Black Olives": {
+          "link": "label.aspx?RecNumAndPort=090250*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Red Onion": {
+          "link": "label.aspx?RecNumAndPort=090254*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Tomatoes": {
+          "link": "label.aspx?RecNumAndPort=150314*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sourdough Bread": {
+          "link": "label.aspx?RecNumAndPort=019364*2",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spinach Tortilla 12\"": {
+          "link": "label.aspx?RecNumAndPort=019369*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Swiss Cheese Sliced": {
+          "link": "label.aspx?RecNumAndPort=220083*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Tomato Tortilla 12\"": {
+          "link": "label.aspx?RecNumAndPort=019370*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Tuna Salad": {
+          "link": "label.aspx?RecNumAndPort=126380*3",
+          "tags": [
+            "Contains egg",
+            "Contains fish"
+          ]
+        }
+      },
+      {
+        "Turkey Sliced": {
+          "link": "label.aspx?RecNumAndPort=126378*3",
+          "tags": [
+            "smartchoice"
+          ]
+        }
+      },
+      {
+        "Wheat Tortilla 12\"": {
+          "link": "label.aspx?RecNumAndPort=019371*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Yellow Mustard": {
+          "link": "label.aspx?RecNumAndPort=220080*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Purple Zone": [
+      {
+        "Bacon": {
+          "link": "label.aspx?RecNumAndPort=060064*2",
+          "tags": []
+        }
+      },
+      {
+        "Cheese Bacon Breakfast Bagel Sandwich": {
+          "link": "label.aspx?RecNumAndPort=126712*1",
+          "tags": []
+        }
+      },
+      {
+        "Geera Pork": {
+          "link": "label.aspx?RecNumAndPort=060131*4",
+          "tags": []
+        }
+      },
+      {
+        "Vegan Chocolate Chip Pancake (purple)": {
+          "link": "label.aspx?RecNumAndPort=100212*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Purple Zone Sides": [
+      {
+        "Annie's Balsamic Vinaigrette (purple)": {
+          "link": "label.aspx?RecNumAndPort=090376*1",
+          "tags": [
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Annie's French Dressing (purple)": {
+          "link": "label.aspx?RecNumAndPort=090377*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Annie's Lite Raspberry Vinaigrette (purple)": {
+          "link": "label.aspx?RecNumAndPort=090378*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Bacon Bits": {
+          "link": "label.aspx?RecNumAndPort=090271*1",
+          "tags": []
+        }
+      },
+      {
+        "Beef Bolognese Sauce": {
+          "link": "label.aspx?RecNumAndPort=135231*2",
+          "tags": []
+        }
+      },
+      {
+        "Breakfast Potatoes w/ Peppers & Onions": {
+          "link": "label.aspx?RecNumAndPort=141123*4",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Romaine": {
+          "link": "label.aspx?RecNumAndPort=090203*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cucumber": {
+          "link": "label.aspx?RecNumAndPort=090261*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Earth Balance Soy Free Spread": {
+          "link": "label.aspx?RecNumAndPort=220136*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Gingered Peaches": {
+          "link": "label.aspx?RecNumAndPort=150301*2",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Millet & Chia Burger Buns": {
+          "link": "label.aspx?RecNumAndPort=019360*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Mixed Greens": {
+          "link": "label.aspx?RecNumAndPort=090289*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pancake Syrup": {
+          "link": "label.aspx?RecNumAndPort=220127*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Red Lentil Penne Pasta": {
+          "link": "label.aspx?RecNumAndPort=101019*4",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Shredded Carrots": {
+          "link": "label.aspx?RecNumAndPort=090253*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Black Olives": {
+          "link": "label.aspx?RecNumAndPort=090250*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Mushroom": {
+          "link": "label.aspx?RecNumAndPort=090248*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Red Onion": {
+          "link": "label.aspx?RecNumAndPort=090254*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Roma Tomatoes": {
+          "link": "label.aspx?RecNumAndPort=090370*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced White Bread": {
+          "link": "label.aspx?RecNumAndPort=019359*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spinach": {
+          "link": "label.aspx?RecNumAndPort=090201*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Feta Cheese": {
+          "link": "label.aspx?RecNumAndPort=090430*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Parmesan Cheese (purple)": {
+          "link": "label.aspx?RecNumAndPort=220140*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Shredded Cheddar Cheese": {
+          "link": "label.aspx?RecNumAndPort=100319*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Shredded Pepper Jack Cheese": {
+          "link": "label.aspx?RecNumAndPort=100318*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Sliced Gouda Cheese": {
+          "link": "label.aspx?RecNumAndPort=100316*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Sliced Provolone Cheese": {
+          "link": "label.aspx?RecNumAndPort=100317*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Soy Free Mayonnaise (purple)": {
+          "link": "label.aspx?RecNumAndPort=220139*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Roma Vegan Salads and Panini": [
+      {
+        "Breaded Chicken Cutlet": {
+          "link": "label.aspx?RecNumAndPort=100959*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Mushroom Carmelized Onion Quesadilla": {
+          "link": "label.aspx?RecNumAndPort=100349*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spicy Hunan Steamed Tofu": {
+          "link": "label.aspx?RecNumAndPort=100988*4",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Vegan Kung Pao Tofu": {
+          "link": "label.aspx?RecNumAndPort=100347*4",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      }
+    ],
+    "Roma Vegan Sides": [
+      {
+        "Balsamic Dressing": {
+          "link": "label.aspx?RecNumAndPort=090279*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Balsamic Garlic Roasted Brussel Sprouts": {
+          "link": "label.aspx?RecNumAndPort=150875*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Banana Peppers": {
+          "link": "label.aspx?RecNumAndPort=220062*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Basil & Pepper Gourmet Beans": {
+          "link": "label.aspx?RecNumAndPort=150355*4",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Bean Sprouts": {
+          "link": "label.aspx?RecNumAndPort=090296*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Black Beans": {
+          "link": "label.aspx?RecNumAndPort=090210*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Broccoli": {
+          "link": "label.aspx?RecNumAndPort=090251*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Brown Rice": {
+          "link": "label.aspx?RecNumAndPort=100329*4",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Kale": {
+          "link": "label.aspx?RecNumAndPort=090204*2",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Corn Nuts": {
+          "link": "label.aspx?RecNumAndPort=090373*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cran Raisin": {
+          "link": "label.aspx?RecNumAndPort=090371*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cucumber": {
+          "link": "label.aspx?RecNumAndPort=090261*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Diced Green Peppers": {
+          "link": "label.aspx?RecNumAndPort=090291*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Edamame": {
+          "link": "label.aspx?RecNumAndPort=090288*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Fresh Vegan Basil Cheddar Mashed Potatoes": {
+          "link": "label.aspx?RecNumAndPort=100351*3",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Garbanzo Beans": {
+          "link": "label.aspx?RecNumAndPort=090209*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Guacamole": {
+          "link": "label.aspx?RecNumAndPort=220053*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Italian Herb Crushed Red Pepper Broccoli": {
+          "link": "label.aspx?RecNumAndPort=150384*3",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Mixed Greens": {
+          "link": "label.aspx?RecNumAndPort=090289*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Plain Tortilla 12\"": {
+          "link": "label.aspx?RecNumAndPort=019368*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pumpkin Seeds": {
+          "link": "label.aspx?RecNumAndPort=090372*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Raspberry Vinaigrette Lite": {
+          "link": "label.aspx?RecNumAndPort=090276*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Red Beans": {
+          "link": "label.aspx?RecNumAndPort=090290*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Red Pepper": {
+          "link": "label.aspx?RecNumAndPort=090256*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sesame Oriental Dressing": {
+          "link": "label.aspx?RecNumAndPort=090282*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Shredded Carrots": {
+          "link": "label.aspx?RecNumAndPort=090253*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Jalapeno Peppers": {
+          "link": "label.aspx?RecNumAndPort=220067*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Mushroom": {
+          "link": "label.aspx?RecNumAndPort=090248*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Red Onion": {
+          "link": "label.aspx?RecNumAndPort=090254*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Roma Tomatoes": {
+          "link": "label.aspx?RecNumAndPort=090370*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spinach Chunky Tomato Lentils": {
+          "link": "label.aspx?RecNumAndPort=100371*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spinach Tortilla 12\"": {
+          "link": "label.aspx?RecNumAndPort=019369*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spinach": {
+          "link": "label.aspx?RecNumAndPort=090201*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sticky Rice": {
+          "link": "label.aspx?RecNumAndPort=145126*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Tomato Tortilla 12\"": {
+          "link": "label.aspx?RecNumAndPort=019370*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Tomatoes Diced": {
+          "link": "label.aspx?RecNumAndPort=090262*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Chipotle Mayonnaise": {
+          "link": "label.aspx?RecNumAndPort=220103*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Edamame Hummus": {
+          "link": "label.aspx?RecNumAndPort=090379*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Vegan Mayonnaise": {
+          "link": "label.aspx?RecNumAndPort=220102*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Shredded Cheddar Cheese": {
+          "link": "label.aspx?RecNumAndPort=100319*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Shredded Pepper Jack Cheese": {
+          "link": "label.aspx?RecNumAndPort=100318*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Sliced Gouda Cheese": {
+          "link": "label.aspx?RecNumAndPort=100316*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Sliced Provolone Cheese": {
+          "link": "label.aspx?RecNumAndPort=100317*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Wheat Tortilla 12\"": {
+          "link": "label.aspx?RecNumAndPort=019371*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Vegan Desserts": [
+      {
+        "Vegan Cheesecake New York": {
+          "link": "label.aspx?RecNumAndPort=100926*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Chocolate Cheesecake": {
+          "link": "label.aspx?RecNumAndPort=100928*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Key Lime Cheesecake": {
+          "link": "label.aspx?RecNumAndPort=100927*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Strawberry Cheesecake": {
+          "link": "label.aspx?RecNumAndPort=100929*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Mongolian Grill": [
+      {
+        "Blistered Shishito Pepperes": {
+          "link": "label.aspx?RecNumAndPort=151289*1",
+          "tags": [
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Brown Rice": {
+          "link": "label.aspx?RecNumAndPort=100329*3",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chow Mein Noodles": {
+          "link": "label.aspx?RecNumAndPort=220191*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Crispy Chili Oil": {
+          "link": "label.aspx?RecNumAndPort=220193*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Crispy Scallions": {
+          "link": "label.aspx?RecNumAndPort=151291*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Fried Wonton Strips": {
+          "link": "label.aspx?RecNumAndPort=220192*1",
+          "tags": [
+            "Contains egg",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Garlic Ginger Green Beans, Red Pepper & Mushrooms": {
+          "link": "label.aspx?RecNumAndPort=150923*3",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Japchae Korean Glass Noodle Stir Fry": {
+          "link": "label.aspx?RecNumAndPort=115611*4",
+          "tags": [
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Spicy Asian Zucchini": {
+          "link": "label.aspx?RecNumAndPort=151287*3",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Spicy Sesame Ginger Bok Choy with Bean Sprouts and Carrots": {
+          "link": "label.aspx?RecNumAndPort=150924*3",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Steamed Edamame Pods": {
+          "link": "label.aspx?RecNumAndPort=151290*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sticky Rice": {
+          "link": "label.aspx?RecNumAndPort=145126*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sweet Fire Tempura Chicken and Pineapple": {
+          "link": "label.aspx?RecNumAndPort=080244*4",
+          "tags": [
+            "Contains gluten",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Thai Coconut Jasmine Rice": {
+          "link": "label.aspx?RecNumAndPort=145146*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Mongolian Grill Made to Ord": [
+      {
+        "Asian Beef Mongolian Grill": {
+          "link": "label.aspx?RecNumAndPort=050181*4",
+          "tags": []
+        }
+      },
+      {
+        "Asian Chicken Mongolian Grill": {
+          "link": "label.aspx?RecNumAndPort=080286*4",
+          "tags": []
+        }
+      },
+      {
+        "Asian Shrimp Mongolian Grill": {
+          "link": "label.aspx?RecNumAndPort=090173*4",
+          "tags": [
+            "Contains Shellfish",
+            "smartchoice"
+          ]
+        }
+      },
+      {
+        "Baby Corn": {
+          "link": "label.aspx?RecNumAndPort=903350*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Bean Sprouts": {
+          "link": "label.aspx?RecNumAndPort=090296*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Broccoli": {
+          "link": "label.aspx?RecNumAndPort=090251*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Basil": {
+          "link": "label.aspx?RecNumAndPort=903345*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Cilantro": {
+          "link": "label.aspx?RecNumAndPort=220068*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Garlic": {
+          "link": "label.aspx?RecNumAndPort=903347*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Ginger": {
+          "link": "label.aspx?RecNumAndPort=903348*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Green Onions": {
+          "link": "label.aspx?RecNumAndPort=220069*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Kale": {
+          "link": "label.aspx?RecNumAndPort=090204*2",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Diced Green Pepper": {
+          "link": "label.aspx?RecNumAndPort=090255*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Edamame": {
+          "link": "label.aspx?RecNumAndPort=090288*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "General Tso's Sauce": {
+          "link": "label.aspx?RecNumAndPort=220156*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Green Beans": {
+          "link": "label.aspx?RecNumAndPort=903351*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Orange Sauce": {
+          "link": "label.aspx?RecNumAndPort=220155*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Pineapple": {
+          "link": "label.aspx?RecNumAndPort=090215*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sauce Plum (RTU)": {
+          "link": "label.aspx?RecNumAndPort=220167*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Shredded Cabbage": {
+          "link": "label.aspx?RecNumAndPort=903349*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Mushroom": {
+          "link": "label.aspx?RecNumAndPort=090248*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Red Onion": {
+          "link": "label.aspx?RecNumAndPort=090254*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spinach": {
+          "link": "label.aspx?RecNumAndPort=090201*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Stir Fry Sauce (RTU)": {
+          "link": "label.aspx?RecNumAndPort=220169*1",
+          "tags": [
+            "Contains Shellfish",
+            "Contains fish",
+            "Contains gluten",
+            "Contains soy",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Sugar Snap Peas": {
+          "link": "label.aspx?RecNumAndPort=903344*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sweet Sour Sauce (RTU)": {
+          "link": "label.aspx?RecNumAndPort=220165*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "TOFU": {
+          "link": "label.aspx?RecNumAndPort=090268*2",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Teriyaki Sauce": {
+          "link": "label.aspx?RecNumAndPort=220157*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Water Chestnuts": {
+          "link": "label.aspx?RecNumAndPort=903346*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "White Rice": {
+          "link": "label.aspx?RecNumAndPort=145001*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ]
+  },
+  "Dinner": {
+    "Broiler Works": [
+      {
+        "Grilled Hot Dog": {
+          "link": "label.aspx?RecNumAndPort=126035*1",
+          "tags": []
+        }
+      },
+      {
+        "Grilled Southwestern Chipotle Pesto Chicken Thigh": {
+          "link": "label.aspx?RecNumAndPort=080522*1",
+          "tags": [
+            "HalalFriendly"
+          ]
+        }
+      }
+    ],
+    "Broiler Works Sides": [
+      {
+        "BBQ Sauce": {
+          "link": "label.aspx?RecNumAndPort=220112*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Bacon Bits": {
+          "link": "label.aspx?RecNumAndPort=090271*1",
+          "tags": []
+        }
+      },
+      {
+        "Banana Peppers": {
+          "link": "label.aspx?RecNumAndPort=220062*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Dijon Mustard": {
+          "link": "label.aspx?RecNumAndPort=220126*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Grilled Mushrooms": {
+          "link": "label.aspx?RecNumAndPort=150319*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Grilled Onions": {
+          "link": "label.aspx?RecNumAndPort=150317*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Grilled Peppers": {
+          "link": "label.aspx?RecNumAndPort=150318*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Guacamole": {
+          "link": "label.aspx?RecNumAndPort=220053*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pico de Gallo": {
+          "link": "label.aspx?RecNumAndPort=220051*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Potato Hamburger Roll": {
+          "link": "label.aspx?RecNumAndPort=119388*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Potato Hot Dog Roll": {
+          "link": "label.aspx?RecNumAndPort=119387*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Seasoned Crinkle Cut Fries": {
+          "link": "label.aspx?RecNumAndPort=141120*4",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Shredded Lettuce": {
+          "link": "label.aspx?RecNumAndPort=126332*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Red Onion": {
+          "link": "label.aspx?RecNumAndPort=090254*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Tomatoes": {
+          "link": "label.aspx?RecNumAndPort=150314*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spicy Brown Mustard": {
+          "link": "label.aspx?RecNumAndPort=220110*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Grill Works": [
+      {
+        "Chicken Shawarma Lavash": {
+          "link": "label.aspx?RecNumAndPort=126627*1",
+          "tags": [
+            "Contains dairy",
+            "Contains gluten",
+            "Contains soy"
+          ]
+        }
+      },
+      {
+        "Vegetable Shawarma Flat Bread": {
+          "link": "label.aspx?RecNumAndPort=126626*1",
+          "tags": [
+            "Contains dairy",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Grill Works Sides": [
+      {
+        "Feta Cheese": {
+          "link": "label.aspx?RecNumAndPort=220122*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Green Lentil Saffron Basmati Rice with Raisins": {
+          "link": "label.aspx?RecNumAndPort=145154*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Oven Roasted Chickpea and Tomatoes": {
+          "link": "label.aspx?RecNumAndPort=903360*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spiced Roasted Cauliflower": {
+          "link": "label.aspx?RecNumAndPort=151020*3",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Tzatziki Sauce": {
+          "link": "label.aspx?RecNumAndPort=220123*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Roaster": [
+      {
+        "Smoked Pork Butt": {
+          "link": "label.aspx?RecNumAndPort=060093*4",
+          "tags": []
+        }
+      }
+    ],
+    "Roaster Sides": [
+      {
+        "Assorted Mini Rolls": {
+          "link": "label.aspx?RecNumAndPort=019373*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Bread Stuffing": {
+          "link": "label.aspx?RecNumAndPort=019363*3",
+          "tags": [
+            "Contains dairy",
+            "Contains gluten",
+            "Contains soy"
+          ]
+        }
+      },
+      {
+        "Chef's Fresh Mashed Potatoes": {
+          "link": "label.aspx?RecNumAndPort=141110*3",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chicken Gravy": {
+          "link": "label.aspx?RecNumAndPort=135104*1",
+          "tags": [
+            "Contains gluten"
+          ]
+        }
+      },
+      {
+        "Collard Green with Smoked Turkey": {
+          "link": "label.aspx?RecNumAndPort=150304*3",
+          "tags": []
+        }
+      },
+      {
+        "Fresh Roasted Carrots": {
+          "link": "label.aspx?RecNumAndPort=150308*3",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Fresh Steamed Broccoli": {
+          "link": "label.aspx?RecNumAndPort=150309*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Fresh Steamed Green Beans": {
+          "link": "label.aspx?RecNumAndPort=150306*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Green Peas and Pearl Onions": {
+          "link": "label.aspx?RecNumAndPort=150993*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Jerk Roasted Sweet Potatoes": {
+          "link": "label.aspx?RecNumAndPort=150312*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Roasted Brussels Sprouts Butternut Squash and Feta Cheese": {
+          "link": "label.aspx?RecNumAndPort=150999*3",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sweet Corn Pudding": {
+          "link": "label.aspx?RecNumAndPort=150991*3",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "White Cheddar Mac and Cheese": {
+          "link": "label.aspx?RecNumAndPort=115257*4",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Chef's Table": [
+      {
+        "Honey Dijon Ginger Tilapia": {
+          "link": "label.aspx?RecNumAndPort=090152*4",
+          "tags": [
+            "Contains egg",
+            "Contains fish",
+            "Contains gluten"
+          ]
+        }
+      },
+      {
+        "Roasted Peruvian Style Chicken": {
+          "link": "label.aspx?RecNumAndPort=080214*1",
+          "tags": [
+            "HalalFriendly"
+          ]
+        }
+      },
+      {
+        "Spicy Bean and Lentil Meatloaf": {
+          "link": "label.aspx?RecNumAndPort=150401*4",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Chef's Table Sides": [
+      {
+        "Apple Raisin Buckwheat": {
+          "link": "label.aspx?RecNumAndPort=100365*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Brick Oven Roasted Tarragon Red Onion Roma Tomatoes": {
+          "link": "label.aspx?RecNumAndPort=151163*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Garlic Parmesan Oven Roasted Turnips": {
+          "link": "label.aspx?RecNumAndPort=151149*3",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Green Chili Garlic Tomato Lentils": {
+          "link": "label.aspx?RecNumAndPort=100364*3",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Herb Roasted New Potatoes": {
+          "link": "label.aspx?RecNumAndPort=141125*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Raspberry Vinaigrette Spinach Salad with Red Pepper Carrots": {
+          "link": "label.aspx?RecNumAndPort=090337*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Roasted Carrots and Wilted Spinach": {
+          "link": "label.aspx?RecNumAndPort=150861*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Roasted Garlic Basil Marinara Sauce": {
+          "link": "label.aspx?RecNumAndPort=135114*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Roasted Garlic Green Beans and Red Onions": {
+          "link": "label.aspx?RecNumAndPort=150376*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Roasted Parmesan Cauliflower and Grape Tomatoes": {
+          "link": "label.aspx?RecNumAndPort=150146*3",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Semolina Pasta Cooked": {
+          "link": "label.aspx?RecNumAndPort=115199*4",
+          "tags": [
+            "Contains egg",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spicy Red Beans and Rice": {
+          "link": "label.aspx?RecNumAndPort=150381*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Whole Wheat Pasta (Cooked)": {
+          "link": "label.aspx?RecNumAndPort=115200*4",
+          "tags": [
+            "Contains egg",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Pasta": [
+      {
+        "Parmesan Garlic Bread": {
+          "link": "label.aspx?RecNumAndPort=117083*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pesto Spinach Italian Sausage and Meatball Shells": {
+          "link": "label.aspx?RecNumAndPort=115129*6",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy"
+          ]
+        }
+      },
+      {
+        "Roasted Penne Primavera": {
+          "link": "label.aspx?RecNumAndPort=115203*6",
+          "tags": [
+            "Contains egg",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Pizza": [
+      {
+        "Pan Buffalo Shrimp Pizza": {
+          "link": "label.aspx?RecNumAndPort=117129*1",
+          "tags": [
+            "Contains Shellfish",
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy"
+          ]
+        }
+      },
+      {
+        "Pan Cheddar Hot Dog Pizza": {
+          "link": "label.aspx?RecNumAndPort=117131*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy"
+          ]
+        }
+      },
+      {
+        "Pan Cheese Pizza": {
+          "link": "label.aspx?RecNumAndPort=117116*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy"
+          ]
+        }
+      },
+      {
+        "Pan Italian Sausage Pizza": {
+          "link": "label.aspx?RecNumAndPort=117118*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy"
+          ]
+        }
+      },
+      {
+        "Pan Pepperoni Pizza": {
+          "link": "label.aspx?RecNumAndPort=117115*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy"
+          ]
+        }
+      },
+      {
+        "Pan Vegetable Pizza": {
+          "link": "label.aspx?RecNumAndPort=117117*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Salad Bar": [
+      {
+        "Artichoke Hearts": {
+          "link": "label.aspx?RecNumAndPort=090406*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Baba Ghanoush": {
+          "link": "label.aspx?RecNumAndPort=090226*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Bacon Bits": {
+          "link": "label.aspx?RecNumAndPort=090271*1",
+          "tags": []
+        }
+      },
+      {
+        "Balsamic Dressing": {
+          "link": "label.aspx?RecNumAndPort=090279*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Balsamic Vinegar": {
+          "link": "label.aspx?RecNumAndPort=903370*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Beets": {
+          "link": "label.aspx?RecNumAndPort=090249*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Black Beans": {
+          "link": "label.aspx?RecNumAndPort=090210*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Blue Cheese Dressing": {
+          "link": "label.aspx?RecNumAndPort=090297*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Broccoli": {
+          "link": "label.aspx?RecNumAndPort=090251*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Caesar Dressing": {
+          "link": "label.aspx?RecNumAndPort=090280*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains fish"
+          ]
+        }
+      },
+      {
+        "Cantaloupe": {
+          "link": "label.aspx?RecNumAndPort=090217*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Celery Sticks": {
+          "link": "label.aspx?RecNumAndPort=090252*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chipotle Hummus": {
+          "link": "label.aspx?RecNumAndPort=220058*1",
+          "tags": [
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Chopped Kale": {
+          "link": "label.aspx?RecNumAndPort=090204*2",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Lettuce": {
+          "link": "label.aspx?RecNumAndPort=090202*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Romaine": {
+          "link": "label.aspx?RecNumAndPort=090203*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chow Mein Noodles": {
+          "link": "label.aspx?RecNumAndPort=090405*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Corn Nuts": {
+          "link": "label.aspx?RecNumAndPort=090373*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Corn": {
+          "link": "label.aspx?RecNumAndPort=090260*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cottage Cheese": {
+          "link": "label.aspx?RecNumAndPort=090263*2",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cran Raisin": {
+          "link": "label.aspx?RecNumAndPort=090371*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Crouton": {
+          "link": "label.aspx?RecNumAndPort=090273*1",
+          "tags": [
+            "Contains dairy",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cucumber": {
+          "link": "label.aspx?RecNumAndPort=090261*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Diced Green Pepper": {
+          "link": "label.aspx?RecNumAndPort=090255*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Edamame": {
+          "link": "label.aspx?RecNumAndPort=090288*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Eggs": {
+          "link": "label.aspx?RecNumAndPort=090269*1",
+          "tags": [
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "FF Italian": {
+          "link": "label.aspx?RecNumAndPort=090278*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Flax Seeds": {
+          "link": "label.aspx?RecNumAndPort=090403*1",
+          "tags": [
+            "Contains nuts",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "French Dressing": {
+          "link": "label.aspx?RecNumAndPort=090287*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Garbanzo Beans": {
+          "link": "label.aspx?RecNumAndPort=090209*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Grapes": {
+          "link": "label.aspx?RecNumAndPort=090216*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Greek Dressing": {
+          "link": "label.aspx?RecNumAndPort=090392*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Greek Pita Flat Bread": {
+          "link": "label.aspx?RecNumAndPort=119385*1",
+          "tags": [
+            "Contains dairy",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Ham Sliced": {
+          "link": "label.aspx?RecNumAndPort=126379*3",
+          "tags": []
+        }
+      },
+      {
+        "Hummus": {
+          "link": "label.aspx?RecNumAndPort=220059*1",
+          "tags": [
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Italian Creamy": {
+          "link": "label.aspx?RecNumAndPort=090283*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Lite Caesar Dressing": {
+          "link": "label.aspx?RecNumAndPort=090281*1",
+          "tags": [
+            "Contains dairy",
+            "Contains fish",
+            "Contains soy"
+          ]
+        }
+      },
+      {
+        "Lite Ranch Dressing": {
+          "link": "label.aspx?RecNumAndPort=090275*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Olive Oil": {
+          "link": "label.aspx?RecNumAndPort=903369*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Parmesan Cheese": {
+          "link": "label.aspx?RecNumAndPort=220105*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Parmesan Peppercorn Dressing": {
+          "link": "label.aspx?RecNumAndPort=090277*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Peaches in syrup": {
+          "link": "label.aspx?RecNumAndPort=090212*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pears in syrup": {
+          "link": "label.aspx?RecNumAndPort=090213*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Peas": {
+          "link": "label.aspx?RecNumAndPort=090259*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pineapple": {
+          "link": "label.aspx?RecNumAndPort=090215*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pumpkin Seeds": {
+          "link": "label.aspx?RecNumAndPort=090372*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Raisins": {
+          "link": "label.aspx?RecNumAndPort=090401*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Ranch Dressing": {
+          "link": "label.aspx?RecNumAndPort=090274*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Raspberry Vinaigrette Lite": {
+          "link": "label.aspx?RecNumAndPort=090276*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Red Pepper": {
+          "link": "label.aspx?RecNumAndPort=090256*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Red Wine Vinegar": {
+          "link": "label.aspx?RecNumAndPort=903371*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sesame Oriental Dressing": {
+          "link": "label.aspx?RecNumAndPort=090282*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Shredded Carrots": {
+          "link": "label.aspx?RecNumAndPort=090253*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Shredded Cheddar Cheese": {
+          "link": "label.aspx?RecNumAndPort=090265*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Black Olives": {
+          "link": "label.aspx?RecNumAndPort=090250*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Mushroom": {
+          "link": "label.aspx?RecNumAndPort=090248*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Red Onion": {
+          "link": "label.aspx?RecNumAndPort=090254*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sunflower Seeds": {
+          "link": "label.aspx?RecNumAndPort=090404*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "TOFU": {
+          "link": "label.aspx?RecNumAndPort=090268*3",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Thousand Island Dressing": {
+          "link": "label.aspx?RecNumAndPort=090284*1",
+          "tags": [
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Tomato Wedges": {
+          "link": "label.aspx?RecNumAndPort=220104*1",
+          "tags": []
+        }
+      },
+      {
+        "Turkey Sliced": {
+          "link": "label.aspx?RecNumAndPort=126378*3",
+          "tags": [
+            "smartchoice"
+          ]
+        }
+      },
+      {
+        "Watermelon": {
+          "link": "label.aspx?RecNumAndPort=090214*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Yogurt": {
+          "link": "label.aspx?RecNumAndPort=090264*2",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Treats": [
+      {
+        "Apple": {
+          "link": "label.aspx?RecNumAndPort=090219*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Banana": {
+          "link": "label.aspx?RecNumAndPort=090218*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Caramel Sauce": {
+          "link": "label.aspx?RecNumAndPort=102009*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cherry Sorbet Soft Serve": {
+          "link": "label.aspx?RecNumAndPort=102021*4",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chocolate Chip Cookie": {
+          "link": "label.aspx?RecNumAndPort=119376*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chocolate Soft Serve Ice Cream": {
+          "link": "label.aspx?RecNumAndPort=102016*4",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Dole Mango Sorbet Soft Serve": {
+          "link": "label.aspx?RecNumAndPort=102019*4",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Dole Pinapple Sorbet Soft Serve": {
+          "link": "label.aspx?RecNumAndPort=102020*4",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Dole Raspberry Sorbet Soft Serve": {
+          "link": "label.aspx?RecNumAndPort=102018*4",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Hot Fudge Sauce": {
+          "link": "label.aspx?RecNumAndPort=102008*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Kale Banana Peach Smoothie": {
+          "link": "label.aspx?RecNumAndPort=220098*4",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "M&M Candy Cookie": {
+          "link": "label.aspx?RecNumAndPort=119379*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Oatmeal Raisin Cookie": {
+          "link": "label.aspx?RecNumAndPort=119378*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Orange": {
+          "link": "label.aspx?RecNumAndPort=090220*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pineapple Blueberry Yogurt Smoothie": {
+          "link": "label.aspx?RecNumAndPort=220091*4",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Salted Caramel Soft Serve Ice Cream": {
+          "link": "label.aspx?RecNumAndPort=102017*4",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sugar Cookie": {
+          "link": "label.aspx?RecNumAndPort=202010*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vanilla Soft Serve Ice Cream": {
+          "link": "label.aspx?RecNumAndPort=102015*4",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Warm Brownie Cheesecake": {
+          "link": "label.aspx?RecNumAndPort=102023*2",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Warm Brownie": {
+          "link": "label.aspx?RecNumAndPort=102022*2",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "White Chocolate Macadamia Nut Cookie": {
+          "link": "label.aspx?RecNumAndPort=119380*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Waffle, Doughnut, Bagel Bar": [
+      {
+        "Bagels": {
+          "link": "label.aspx?RecNumAndPort=119360*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Butter": {
+          "link": "label.aspx?RecNumAndPort=220065*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cream Cheese Onion and Chive": {
+          "link": "label.aspx?RecNumAndPort=090333*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Donuts": {
+          "link": "label.aspx?RecNumAndPort=119364*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains nuts",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Maple Syrup": {
+          "link": "label.aspx?RecNumAndPort=119363*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Margarine": {
+          "link": "label.aspx?RecNumAndPort=220066*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Plain Cream Cheese": {
+          "link": "label.aspx?RecNumAndPort=090331*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Strawberry Cream Cheese": {
+          "link": "label.aspx?RecNumAndPort=090332*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Strawberry Topping": {
+          "link": "label.aspx?RecNumAndPort=090329*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Waffle": {
+          "link": "label.aspx?RecNumAndPort=090328*7",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Whipped Cream": {
+          "link": "label.aspx?RecNumAndPort=090330*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Soup Du Jour": [
+      {
+        "Chicken Noodle Soup": {
+          "link": "label.aspx?RecNumAndPort=090347*6",
+          "tags": [
+            "Contains egg",
+            "Contains gluten"
+          ]
+        }
+      },
+      {
+        "Cream of Tomato Soup": {
+          "link": "label.aspx?RecNumAndPort=020153*6",
+          "tags": [
+            "Contains dairy",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Loaded Baked Potato Soup": {
+          "link": "label.aspx?RecNumAndPort=090357*6",
+          "tags": [
+            "Contains dairy",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Deli+": [
+      {
+        "Roasted Red Pepper Hummus and Swiss Sandwich": {
+          "link": "label.aspx?RecNumAndPort=126621*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Turkey, Tomato and American Cheese Melt": {
+          "link": "label.aspx?RecNumAndPort=126614*1",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy"
+          ]
+        }
+      }
+    ],
+    "Deli": [
+      {
+        "American Cheese Sliced": {
+          "link": "label.aspx?RecNumAndPort=220082*1",
+          "tags": [
+            "Contains dairy",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Carrot Sticks": {
+          "link": "label.aspx?RecNumAndPort=220055*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Celery Sticks": {
+          "link": "label.aspx?RecNumAndPort=220056*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cheddar Cheese Sliced": {
+          "link": "label.aspx?RecNumAndPort=220085*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chicken Salad": {
+          "link": "label.aspx?RecNumAndPort=126381*3",
+          "tags": [
+            "Contains egg"
+          ]
+        }
+      },
+      {
+        "Chipotle Mayonnaise": {
+          "link": "label.aspx?RecNumAndPort=220120*1",
+          "tags": [
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Deli Wheat Bread Sliced": {
+          "link": "label.aspx?RecNumAndPort=019375*2",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Diced Green Pepper": {
+          "link": "label.aspx?RecNumAndPort=090255*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Guacamole": {
+          "link": "label.aspx?RecNumAndPort=220053*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Ham Sliced": {
+          "link": "label.aspx?RecNumAndPort=126379*3",
+          "tags": []
+        }
+      },
+      {
+        "Jalapenos": {
+          "link": "label.aspx?RecNumAndPort=529004*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Leaf Lettuce": {
+          "link": "label.aspx?RecNumAndPort=150313*1/4",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Mayonnaise": {
+          "link": "label.aspx?RecNumAndPort=220079*1/2",
+          "tags": [
+            "Contains egg",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Multi-grain Bread": {
+          "link": "label.aspx?RecNumAndPort=019365*2",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pepperoni Sliced": {
+          "link": "label.aspx?RecNumAndPort=060100*1",
+          "tags": []
+        }
+      },
+      {
+        "Pickle Slice": {
+          "link": "label.aspx?RecNumAndPort=220108*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Plain Tortilla 12\"": {
+          "link": "label.aspx?RecNumAndPort=019368*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Potato Chips": {
+          "link": "label.aspx?RecNumAndPort=220077*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Provolone Cheese Sliced": {
+          "link": "label.aspx?RecNumAndPort=220084*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pullman White Bread Sliced": {
+          "link": "label.aspx?RecNumAndPort=019374*2",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Rye Bread": {
+          "link": "label.aspx?RecNumAndPort=019366*2",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Salami Sliced": {
+          "link": "label.aspx?RecNumAndPort=060178*1",
+          "tags": []
+        }
+      },
+      {
+        "Sliced Black Olives": {
+          "link": "label.aspx?RecNumAndPort=090250*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Red Onion": {
+          "link": "label.aspx?RecNumAndPort=090254*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Tomatoes": {
+          "link": "label.aspx?RecNumAndPort=150314*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sourdough Bread": {
+          "link": "label.aspx?RecNumAndPort=019364*2",
+          "tags": [
+            "Contains dairy",
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spinach Tortilla 12\"": {
+          "link": "label.aspx?RecNumAndPort=019369*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Swiss Cheese Sliced": {
+          "link": "label.aspx?RecNumAndPort=220083*1",
+          "tags": [
+            "Contains dairy",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Tomato Tortilla 12\"": {
+          "link": "label.aspx?RecNumAndPort=019370*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Tuna Salad": {
+          "link": "label.aspx?RecNumAndPort=126380*3",
+          "tags": [
+            "Contains egg",
+            "Contains fish"
+          ]
+        }
+      },
+      {
+        "Turkey Sliced": {
+          "link": "label.aspx?RecNumAndPort=126378*3",
+          "tags": [
+            "smartchoice"
+          ]
+        }
+      },
+      {
+        "Wheat Tortilla 12\"": {
+          "link": "label.aspx?RecNumAndPort=019371*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Yellow Mustard": {
+          "link": "label.aspx?RecNumAndPort=220080*1/2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Purple Zone": [
+      {
+        "Chicken Tinga": {
+          "link": "label.aspx?RecNumAndPort=080524*4",
+          "tags": [
+            "smartchoice",
+            "HalalFriendly"
+          ]
+        }
+      },
+      {
+        "Geera Pork": {
+          "link": "label.aspx?RecNumAndPort=060131*4",
+          "tags": []
+        }
+      }
+    ],
+    "Purple Zone Sides": [
+      {
+        "Annie's Balsamic Vinaigrette (purple)": {
+          "link": "label.aspx?RecNumAndPort=090376*1",
+          "tags": [
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Annie's French Dressing (purple)": {
+          "link": "label.aspx?RecNumAndPort=090377*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Annie's Lite Raspberry Vinaigrette (purple)": {
+          "link": "label.aspx?RecNumAndPort=090378*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Bacon Bits": {
+          "link": "label.aspx?RecNumAndPort=090271*1",
+          "tags": []
+        }
+      },
+      {
+        "Beef Bolognese Sauce": {
+          "link": "label.aspx?RecNumAndPort=135231*2",
+          "tags": []
+        }
+      },
+      {
+        "Chopped Romaine": {
+          "link": "label.aspx?RecNumAndPort=090203*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cilantro Lime Rice": {
+          "link": "label.aspx?RecNumAndPort=145143*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cucumber": {
+          "link": "label.aspx?RecNumAndPort=090261*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Millet & Chia Burger Buns": {
+          "link": "label.aspx?RecNumAndPort=019360*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Mixed Greens": {
+          "link": "label.aspx?RecNumAndPort=090289*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Red Lentil Penne Pasta": {
+          "link": "label.aspx?RecNumAndPort=101019*4",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Roasted Mushrooms and Red Peppers": {
+          "link": "label.aspx?RecNumAndPort=150944*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sauteed Cabbage & Carrots": {
+          "link": "label.aspx?RecNumAndPort=150430*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Shredded Carrots": {
+          "link": "label.aspx?RecNumAndPort=090253*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Black Olives": {
+          "link": "label.aspx?RecNumAndPort=090250*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Mushroom": {
+          "link": "label.aspx?RecNumAndPort=090248*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Red Onion": {
+          "link": "label.aspx?RecNumAndPort=090254*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Roma Tomatoes": {
+          "link": "label.aspx?RecNumAndPort=090370*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced White Bread": {
+          "link": "label.aspx?RecNumAndPort=019359*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spinach": {
+          "link": "label.aspx?RecNumAndPort=090201*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Feta Cheese": {
+          "link": "label.aspx?RecNumAndPort=090430*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Parmesan Cheese (purple)": {
+          "link": "label.aspx?RecNumAndPort=220140*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Shredded Cheddar Cheese": {
+          "link": "label.aspx?RecNumAndPort=100319*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Shredded Pepper Jack Cheese": {
+          "link": "label.aspx?RecNumAndPort=100318*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Sliced Gouda Cheese": {
+          "link": "label.aspx?RecNumAndPort=100316*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Sliced Provolone Cheese": {
+          "link": "label.aspx?RecNumAndPort=100317*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Soy Free Mayonnaise (purple)": {
+          "link": "label.aspx?RecNumAndPort=220139*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Roma Vegan Salads and Panini": [
+      {
+        "Breaded Chicken Cutlet": {
+          "link": "label.aspx?RecNumAndPort=100959*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Mushroom Carmelized Onion Quesadilla": {
+          "link": "label.aspx?RecNumAndPort=100349*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spicy Hunan Steamed Tofu": {
+          "link": "label.aspx?RecNumAndPort=100988*4",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Vegan Butternut Squash Risotto Cakes": {
+          "link": "label.aspx?RecNumAndPort=100920*4",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Roma Vegan Sides": [
+      {
+        "Balsamic Dressing": {
+          "link": "label.aspx?RecNumAndPort=090279*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Balsamic Garlic Roasted Brussel Sprouts": {
+          "link": "label.aspx?RecNumAndPort=150875*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Banana Peppers": {
+          "link": "label.aspx?RecNumAndPort=220062*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Basil & Pepper Gourmet Beans": {
+          "link": "label.aspx?RecNumAndPort=150355*4",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Bean Sprouts": {
+          "link": "label.aspx?RecNumAndPort=090296*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Black Beans": {
+          "link": "label.aspx?RecNumAndPort=090210*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Broccoli": {
+          "link": "label.aspx?RecNumAndPort=090251*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Brown Rice": {
+          "link": "label.aspx?RecNumAndPort=100329*4",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Kale": {
+          "link": "label.aspx?RecNumAndPort=090204*2",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Corn Nuts": {
+          "link": "label.aspx?RecNumAndPort=090373*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cran Raisin": {
+          "link": "label.aspx?RecNumAndPort=090371*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Cucumber": {
+          "link": "label.aspx?RecNumAndPort=090261*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Diced Green Peppers": {
+          "link": "label.aspx?RecNumAndPort=090291*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Edamame": {
+          "link": "label.aspx?RecNumAndPort=090288*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Fresh Vegan Basil Cheddar Mashed Potatoes": {
+          "link": "label.aspx?RecNumAndPort=100351*3",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Garbanzo Beans": {
+          "link": "label.aspx?RecNumAndPort=090209*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Garlic Tomato Squash White Bean Ragout": {
+          "link": "label.aspx?RecNumAndPort=150859*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Guacamole": {
+          "link": "label.aspx?RecNumAndPort=220053*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Italian Herb Crushed Red Pepper Broccoli": {
+          "link": "label.aspx?RecNumAndPort=150384*3",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Mixed Greens": {
+          "link": "label.aspx?RecNumAndPort=090289*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Plain Tortilla 12\"": {
+          "link": "label.aspx?RecNumAndPort=019368*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Pumpkin Seeds": {
+          "link": "label.aspx?RecNumAndPort=090372*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Raspberry Vinaigrette Lite": {
+          "link": "label.aspx?RecNumAndPort=090276*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Red Beans": {
+          "link": "label.aspx?RecNumAndPort=090290*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Red Pepper": {
+          "link": "label.aspx?RecNumAndPort=090256*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sesame Oriental Dressing": {
+          "link": "label.aspx?RecNumAndPort=090282*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Shredded Carrots": {
+          "link": "label.aspx?RecNumAndPort=090253*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Jalapeno Peppers": {
+          "link": "label.aspx?RecNumAndPort=220067*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Mushroom": {
+          "link": "label.aspx?RecNumAndPort=090248*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Red Onion": {
+          "link": "label.aspx?RecNumAndPort=090254*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Roma Tomatoes": {
+          "link": "label.aspx?RecNumAndPort=090370*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spinach Chunky Tomato Lentils": {
+          "link": "label.aspx?RecNumAndPort=100371*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spinach Tortilla 12\"": {
+          "link": "label.aspx?RecNumAndPort=019369*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spinach": {
+          "link": "label.aspx?RecNumAndPort=090201*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Tomato Tortilla 12\"": {
+          "link": "label.aspx?RecNumAndPort=019370*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Tomatoes Diced": {
+          "link": "label.aspx?RecNumAndPort=090262*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Chipotle Mayonnaise": {
+          "link": "label.aspx?RecNumAndPort=220103*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Edamame Hummus": {
+          "link": "label.aspx?RecNumAndPort=090379*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Vegan Mayonnaise": {
+          "link": "label.aspx?RecNumAndPort=220102*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Shredded Cheddar Cheese": {
+          "link": "label.aspx?RecNumAndPort=100319*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Shredded Pepper Jack Cheese": {
+          "link": "label.aspx?RecNumAndPort=100318*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Sliced Gouda Cheese": {
+          "link": "label.aspx?RecNumAndPort=100316*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Sliced Provolone Cheese": {
+          "link": "label.aspx?RecNumAndPort=100317*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Wheat Tortilla 12\"": {
+          "link": "label.aspx?RecNumAndPort=019371*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Vegan Desserts": [
+      {
+        "Vegan Cheesecake New York": {
+          "link": "label.aspx?RecNumAndPort=100926*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Chocolate Cheesecake": {
+          "link": "label.aspx?RecNumAndPort=100928*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Key Lime Cheesecake": {
+          "link": "label.aspx?RecNumAndPort=100927*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Vegan Strawberry Cheesecake": {
+          "link": "label.aspx?RecNumAndPort=100929*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Mongolian Grill": [
+      {
+        "Blistered Shishito Pepperes": {
+          "link": "label.aspx?RecNumAndPort=151289*1",
+          "tags": [
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Brown Rice": {
+          "link": "label.aspx?RecNumAndPort=100329*3",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chow Mein Noodles": {
+          "link": "label.aspx?RecNumAndPort=220191*1",
+          "tags": [
+            "Contains gluten",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Crispy Chili Oil": {
+          "link": "label.aspx?RecNumAndPort=220193*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Crispy Scallions": {
+          "link": "label.aspx?RecNumAndPort=151291*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Fried Wonton Strips": {
+          "link": "label.aspx?RecNumAndPort=220192*1",
+          "tags": [
+            "Contains egg",
+            "Contains gluten",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Garlic Ginger Green Beans, Red Pepper & Mushrooms": {
+          "link": "label.aspx?RecNumAndPort=150923*3",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Japchae Korean Glass Noodle Stir Fry": {
+          "link": "label.aspx?RecNumAndPort=115611*4",
+          "tags": [
+            "Contains egg",
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Spicy Asian Zucchini": {
+          "link": "label.aspx?RecNumAndPort=151287*3",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Spicy Sesame Ginger Bok Choy with Bean Sprouts and Carrots": {
+          "link": "label.aspx?RecNumAndPort=150924*3",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Steamed Edamame Pods": {
+          "link": "label.aspx?RecNumAndPort=151290*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sticky Rice": {
+          "link": "label.aspx?RecNumAndPort=145126*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sweet Fire Tempura Chicken and Pineapple": {
+          "link": "label.aspx?RecNumAndPort=080244*4",
+          "tags": [
+            "Contains gluten",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Thai Coconut Jasmine Rice": {
+          "link": "label.aspx?RecNumAndPort=145146*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ],
+    "Mongolian Grill Made to Ord": [
+      {
+        "Asian Beef Mongolian Grill": {
+          "link": "label.aspx?RecNumAndPort=050181*4",
+          "tags": []
+        }
+      },
+      {
+        "Asian Chicken Mongolian Grill": {
+          "link": "label.aspx?RecNumAndPort=080286*4",
+          "tags": []
+        }
+      },
+      {
+        "Asian Shrimp Mongolian Grill": {
+          "link": "label.aspx?RecNumAndPort=090173*4",
+          "tags": [
+            "Contains Shellfish",
+            "smartchoice"
+          ]
+        }
+      },
+      {
+        "Baby Corn": {
+          "link": "label.aspx?RecNumAndPort=903350*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Bean Sprouts": {
+          "link": "label.aspx?RecNumAndPort=090296*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Broccoli": {
+          "link": "label.aspx?RecNumAndPort=090251*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Basil": {
+          "link": "label.aspx?RecNumAndPort=903345*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Cilantro": {
+          "link": "label.aspx?RecNumAndPort=220068*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Garlic": {
+          "link": "label.aspx?RecNumAndPort=903347*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Ginger": {
+          "link": "label.aspx?RecNumAndPort=903348*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Green Onions": {
+          "link": "label.aspx?RecNumAndPort=220069*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Chopped Kale": {
+          "link": "label.aspx?RecNumAndPort=090204*2",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Diced Green Pepper": {
+          "link": "label.aspx?RecNumAndPort=090255*1",
+          "tags": [
+            "smartchoice",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Edamame": {
+          "link": "label.aspx?RecNumAndPort=090288*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "General Tso's Sauce": {
+          "link": "label.aspx?RecNumAndPort=220156*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Green Beans": {
+          "link": "label.aspx?RecNumAndPort=903351*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Orange Sauce": {
+          "link": "label.aspx?RecNumAndPort=220155*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Pineapple": {
+          "link": "label.aspx?RecNumAndPort=090215*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sauce Plum (RTU)": {
+          "link": "label.aspx?RecNumAndPort=220167*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Shredded Cabbage": {
+          "link": "label.aspx?RecNumAndPort=903349*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Mushroom": {
+          "link": "label.aspx?RecNumAndPort=090248*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sliced Red Onion": {
+          "link": "label.aspx?RecNumAndPort=090254*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Spinach": {
+          "link": "label.aspx?RecNumAndPort=090201*2",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Stir Fry Sauce (RTU)": {
+          "link": "label.aspx?RecNumAndPort=220169*1",
+          "tags": [
+            "Contains Shellfish",
+            "Contains fish",
+            "Contains gluten",
+            "Contains soy",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Sugar Snap Peas": {
+          "link": "label.aspx?RecNumAndPort=903344*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Sweet Sour Sauce (RTU)": {
+          "link": "label.aspx?RecNumAndPort=220165*1",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "TOFU": {
+          "link": "label.aspx?RecNumAndPort=090268*2",
+          "tags": [
+            "Contains soy",
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "Teriyaki Sauce": {
+          "link": "label.aspx?RecNumAndPort=220157*1",
+          "tags": [
+            "Contains gluten",
+            "Contains soy",
+            "vegan",
+            "vegetarian",
+            "Contains sesame"
+          ]
+        }
+      },
+      {
+        "Water Chestnuts": {
+          "link": "label.aspx?RecNumAndPort=903346*1",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      },
+      {
+        "White Rice": {
+          "link": "label.aspx?RecNumAndPort=145001*3",
+          "tags": [
+            "vegan",
+            "vegetarian"
+          ]
+        }
+      }
+    ]
+  }
+}
