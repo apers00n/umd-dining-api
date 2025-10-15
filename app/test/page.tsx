@@ -6,6 +6,8 @@ import { useEffect, useState } from "react";
 import { Concert_One } from "next/font/google";
 const concertOne = Concert_One({ subsets: ["latin"], weight: ["400"] });
 import { Accordion, AccordionItem } from "@heroui/accordion";
+import { Tabs, Tab } from "@heroui/tabs";
+import { Sun, SunriseIcon, Moon } from "lucide-react";
 
 export default function Home() {
   const [menu, setMenu] = useState(null);
@@ -42,42 +44,83 @@ export default function Home() {
     );
 
   return (
-    <div className="grid p-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 auto-rows-min">
-      {Object.entries(menu).map(
-        ([section, items]: [string, any], i: number) => (
-          <Card
-            key={section}
-            className={`bg-fuchsia-100 hover:shadow-lg transition-all duration-200 p-0 rounded-xl
+    <div className="bg-fuchsia-100/50 h-screen">
+      <div className="text-fuchsia-900 text-5xl p-5 py-15 flex justify-center">
+        South Dining Hall
+      </div>
+      <Tabs
+        className="flex pb-10 justify-center"
+        variant="underlined"
+        aria-label="Options"
+      >
+        <Tab
+          className="text-xl"
+          key="breakfast"
+          title={
+            <div className="flex items-center space-x-2">
+              <SunriseIcon />
+              <span>Breakfast</span>
+            </div>
+          }
+        />
+        <Tab
+          className="text-xl"
+          key="lunch"
+          title={
+            <div className="flex items-center space-x-2">
+              <Sun />
+              <span>Lunch</span>
+            </div>
+          }
+        ></Tab>
+        <Tab
+          className="text-xl"
+          key="dinner"
+          title={
+            <div className="flex items-center space-x-2">
+              <Moon />
+              <span>Dinner</span>
+            </div>
+          }
+        ></Tab>
+      </Tabs>
+      <div className="grid p-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 auto-rows-min">
+        {Object.entries(menu).map(
+          ([section, items]: [string, any], i: number) => (
+            <Card
+              key={section}
+              className={`bg-fuchsia-100 hover:shadow-lg transition-all duration-200 p-0 rounded-xl
         ${items.length > 5 ? "md:col-span-2" : "md:col-span-1"}`}
-          >
-            <Accordion>
-              <AccordionItem
-                className="text-fuchsia-900 font-semibold text-lg rounded-t-xl p-4"
-                key="1"
-                aria-label={section}
-                title={section}
-              >
-                <CardBody className={`space-y-2 ${concertOne.className}`}>
-                  {items.map((item: any, j: number) => {
-                    const name = Object.keys(item)[0];
-                    const { tags } = item[name];
-                    return (
-                      <div key={j}>
-                        <p className="font-medium text-fuchsia-900">{name}</p>
-                        {tags && tags.length > 0 && (
-                          <p className="text-xs text-fuchsia-700">
-                            {tags.join(", ")}
-                          </p>
-                        )}
-                      </div>
-                    );
-                  })}
-                </CardBody>
-              </AccordionItem>
-            </Accordion>
-          </Card>
-        ),
-      )}
+            >
+              <Accordion>
+                <AccordionItem
+                  className="text-fuchsia-900 font-semibold text-lg rounded-t-xl p-4"
+                  key="1"
+                  aria-label={section}
+                  title={section}
+                >
+                  <CardBody className={`space-y-2 ${concertOne.className}`}>
+                    {items.map((item: any, j: number) => {
+                      const name = Object.keys(item)[0];
+                      const { tags } = item[name];
+                      return (
+                        <div key={j}>
+                          <p className="font-medium text-fuchsia-900">{name}</p>
+                          {tags && tags.length > 0 && (
+                            <p className="text-xs text-fuchsia-700">
+                              {tags.join(", ")}
+                            </p>
+                          )}
+                        </div>
+                      );
+                    })}
+                  </CardBody>
+                </AccordionItem>
+              </Accordion>
+            </Card>
+          ),
+        )}
+      </div>
     </div>
   );
 }

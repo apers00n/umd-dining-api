@@ -32,7 +32,8 @@ export default function RootLayout({
         <link href="https://fonts.googleapis.com/css2?family=Coiny&display=swap" />
       </head>
       <body
-      // className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className="bg-cyan-100"
+        // className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <HeroUIProvider>{children}</HeroUIProvider>
       </body>
