@@ -1,12 +1,15 @@
 import { scrapeMenu } from "@/lib/scrape";
+import { cachedDataVersionTag } from "node:v8";
 import { createClient } from "redis";
 
 export const dynamic = "force-dynamic"; // ensures this runs server-side
+const formatDate = (d) =>
+  `${d.getMonth() + 1}/${d.getDate()}/${d.getFullYear()}`;
 
 export async function GET(req) {
   const { searchParams } = new URL(req.url);
   const locationNum = searchParams.get("locationNum");
-  const dtdate = searchParams.get("dtdate");
+  const dtdate = searchParams.get("dtdate") || formatDate(new Date());
 
   if (!locationNum || !dtdate) {
     return new Response(

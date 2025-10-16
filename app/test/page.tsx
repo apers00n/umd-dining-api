@@ -16,7 +16,7 @@ export default function Home() {
   useEffect(() => {
     async function fetchMenu() {
       try {
-        const res = await fetch("/api/menu?locationNum=16&dtdate=10/15/2025");
+        const res = await fetch("/api/menu?locationNum=16");
         const data = await res.json();
         setMenu(data); // 🔹 only grab breakfast section
       } catch (err) {
