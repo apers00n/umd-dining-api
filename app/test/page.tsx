@@ -8,6 +8,7 @@ const concertOne = Concert_One({ subsets: ["latin"], weight: ["400"] });
 import { Accordion, AccordionItem } from "@heroui/accordion";
 import { Tabs, Tab } from "@heroui/tabs";
 import { Sun, SunriseIcon, Moon } from "lucide-react";
+import Map from "@/components/map";
 
 export default function Home() {
   const [menu, setMenu] = useState(null);
@@ -63,6 +64,7 @@ export default function Home() {
       <div className="text-fuchsia-900 text-center text-5xl p-5 py-15 flex justify-center">
         South Dining Hall
       </div>
+      <Map menu={menu["Lunch"]} />
       <Tabs
         className="flex pb-10 justify-center"
         variant="underlined"
