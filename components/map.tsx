@@ -25,11 +25,11 @@ import {
   SaladBar,
 } from "./svgRects";
 
-export default function Map({ menu }: { menu: Record<string, any> }) {
+export function Map({ menu }: { menu: Record<string, any> }) {
   const [selected, setSelected] = useState<string[]>([]);
 
   return (
-    <div className="flex flex-col items-center w-full min-h-screen p-6">
+    <div className="flex flex-col items-center w-full p-6">
       <div className="w-full max-w-3xl">
         <svg
           viewBox="0 0 490 415"
@@ -68,7 +68,6 @@ export default function Map({ menu }: { menu: Record<string, any> }) {
         </svg>
       </div>
 
-      {/* Menu display for each selected area */}
       {selected.length > 0 && (
         <div className="mt-8 w-full flex flex-wrap gap-6 justify-center">
           {selected.map((section) => (
@@ -77,7 +76,7 @@ export default function Map({ menu }: { menu: Record<string, any> }) {
               className="bg-fuchsia-200 p-10 pr-20 rounded-2xl shadow-md inline-flex flex-col"
               style={{ width: "auto" }}
             >
-              <h2 className="text-3xl font-semibold mb-6 border-b-5 border-fuchsia-700 w-max border-dotted">
+              <h2 className="text-2xl sm:text-3xl font-semibold mb-6 border-b-5 border-fuchsia-700 w-max border-dotted">
                 {section}
               </h2>
               {menu[section]?.length ? (
@@ -87,11 +86,11 @@ export default function Map({ menu }: { menu: Record<string, any> }) {
                     const { tags } = item[name];
                     return (
                       <li key={i}>
-                        <p className="font-medium text-xl text-fuchsia-800">
+                        <p className="font-medium text-md sm:text-xl text-fuchsia-800">
                           {name}
                         </p>
                         {tags?.length > 0 && (
-                          <p className="text-md text-fuchsia-700">
+                          <p className="text-xs sm:text-md text-fuchsia-700">
                             {tags.join(", ")}
                           </p>
                         )}
