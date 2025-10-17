@@ -70,13 +70,14 @@ export default function Map({ menu }: { menu: Record<string, any> }) {
 
       {/* Menu display for each selected area */}
       {selected.length > 0 && (
-        <div className="mt-8 w-full max-w-4xl grid grid-cols-1 sm:grid-cols-2 gap-6">
+        <div className="mt-8 w-full flex flex-wrap gap-6 justify-center">
           {selected.map((section) => (
             <div
               key={section}
-              className="bg-fuchsia-50 p-6 rounded-2xl shadow-md"
+              className="bg-fuchsia-200 p-10 pr-20 rounded-2xl shadow-md inline-flex flex-col"
+              style={{ width: "auto" }}
             >
-              <h2 className="text-2xl font-semibold mb-4 text-fuchsia-900">
+              <h2 className="text-3xl font-semibold mb-6 border-b-5 border-fuchsia-700 w-max border-dotted">
                 {section}
               </h2>
               {menu[section]?.length ? (
@@ -86,9 +87,11 @@ export default function Map({ menu }: { menu: Record<string, any> }) {
                     const { tags } = item[name];
                     return (
                       <li key={i}>
-                        <p className="font-medium text-fuchsia-800">{name}</p>
+                        <p className="font-medium text-xl text-fuchsia-800">
+                          {name}
+                        </p>
                         {tags?.length > 0 && (
-                          <p className="text-sm text-fuchsia-700">
+                          <p className="text-md text-fuchsia-700">
                             {tags.join(", ")}
                           </p>
                         )}

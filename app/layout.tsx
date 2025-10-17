@@ -28,10 +28,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={coiny.className}>
-      <body
-        className="bg-cyan-100"
-        // className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      <body className="min-h-screen">
         <HeroUIProvider>{children}</HeroUIProvider>
       </body>
     </html>
