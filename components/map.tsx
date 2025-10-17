@@ -24,6 +24,9 @@ import {
   InfusedWaterStation,
   SaladBar,
 } from "./svgRects";
+import { Concert_One } from "next/font/google";
+
+const concertOne = Concert_One({ subsets: ["latin"], weight: ["400"] });
 
 export function Map({ menu }: { menu: Record<string, any> }) {
   const [selected, setSelected] = useState<string[]>([]);
@@ -80,7 +83,7 @@ export function Map({ menu }: { menu: Record<string, any> }) {
                 {section}
               </h2>
               {menu[section]?.length ? (
-                <ul className="space-y-2">
+                <ul className={`space-y-2 ${concertOne.className}`}>
                   {menu[section].map((item: any, i: number) => {
                     const name = Object.keys(item)[0];
                     const { tags } = item[name];

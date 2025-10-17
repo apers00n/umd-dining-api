@@ -4,9 +4,11 @@ import "./globals.css";
 import { HeroUIProvider } from "@heroui/system";
 import { Coiny } from "next/font/google";
 import { Divider } from "@heroui/divider";
+import { Concert_One } from "next/font/google";
 
 const coiny = Coiny({ subsets: ["latin"], weight: ["400"] });
 
+const concertOne = Concert_One({ subsets: ["latin"], weight: ["400"] });
 export const metadata: Metadata = {
   title: "UMD Dining Menu",
   description: "The UMD dining menu website reimagined",
@@ -30,21 +32,21 @@ export default function RootLayout({
             <a
               href="https://github.com/apers00n"
               target="_blank"
-              className="sm:text-2xl border-dotted border-b-5 mb-2 w-max"
+              className={`${concertOne.className} sm:text-2xl border-dotted border-b-5 mb-2 w-max`}
             >
               Github
             </a>
             <a
               target="_blank"
               href="https://www.instagram.com/natan.meyer/"
-              className="sm:text-2xl border-dotted border-b-5 mb-2 w-max"
+              className={`${concertOne.className} sm:text-2xl border-dotted border-b-5 mb-2 w-max`}
             >
               Instagram
             </a>
             <a
               target="_blank"
               href="mailto:natanameyer@gmail.com"
-              className="sm:text-2xl border-dotted border-b-5 mb-2 w-max"
+              className={`${concertOne.className} sm:text-2xl border-dotted border-b-5 mb-2 w-max`}
             >
               Contact
             </a>

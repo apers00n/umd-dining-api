@@ -1,41 +1,90 @@
-import React from "react";
-import { Button, ButtonGroup } from "@heroui/button";
-export const dynamic = "force-dynamic"; // ensures it updates when data changes
-import { Accordion, AccordionItem } from "@heroui/accordion";
-import { Alert } from "@heroui/alert";
+"use client";
+import { useEffect, useState } from "react";
+import { Spinner } from "@heroui/spinner";
+import DiningHallDropdown from "@/components/DiningHallDropdown";
+import { MealTabs } from "@/components/MealTabs";
+import { MenuGrid } from "@/components/MenuGrid";
+import { Map } from "@/components/map";
+import { diningHalls } from "@/lib/constants";
 
-export default async function HomePage() {
-  const locationNum = 16;
-  const dtdate = "10/15/2025";
-  const apiUrl = `${process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000"}/api/menu?locationNum=${locationNum}&dtdate=${dtdate}`;
+export default function Home() {
+  const [menu, setMenu] = useState<any>(null);
+  const [loading, setLoading] = useState(true);
+  const [selectedMeal, setSelectedMeal] = useState<string>("Breakfast");
+  const [searchTerm, setSearchTerm] = useState("");
+  const [diningHall, setDiningHall] = useState<string>("South Dining Hall");
 
-  let data = null;
-  try {
-    const res = await fetch(apiUrl, { cache: "no-store" });
-    if (!res.ok) throw new Error(`Failed to fetch: ${res.status}`);
-    data = await res.json();
-  } catch (err) {
-    console.error(err);
-  }
-  const defaultContent =
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";
+  useEffect(() => {
+    async function fetchMenu() {
+      try {
+        const res = await fetch(
+          `/api/menu?locationNum=${diningHalls[diningHall] || 16}`,
+        );
+        const data = await res.json();
+        setMenu(data);
+      } catch (err) {
+        console.error("Error fetching menu:", err);
+      } finally {
+        setLoading(false);
+      }
+    }
+    fetchMenu();
+  }, [diningHall]);
+
+  if (loading)
+    return (
+      <div className="flex bg-fuchsia-200/50 justify-center items-center h-screen">
+        <Spinner
+          size="lg"
+          color="current"
+          variant="wave"
+          className="text-fuchsia-500 scale-[1.6]"
+        />
+      </div>
+    );
+
+  if (!menu)
+    return (
+      <div className="text-center text-gray-500 mt-10">
+        <h1>No menu data found.</h1>
+      </div>
+    );
+
+  const filteredMenu = Object.entries(menu[selectedMeal] || {}).reduce(
+    (acc: Record<string, any[]>, [section, items]: [string, any]) => {
+      const filteredItems = items.filter((item: any) => {
+        const name = Object.keys(item)[0];
+        return name.toLowerCase().includes(searchTerm.toLowerCase());
+      });
+      if (filteredItems.length > 0) acc[section] = filteredItems;
+      return acc;
+    },
+    {},
+  );
 
   return (
-    <div className="p-6 font-sans">
-      <h1 className="text-2xl font-bold mb-4">Dining Menu Preview</h1>
-      <p className="mb-4 text-gray-700">
-        Showing menu for <b>location {locationNum}</b> on <b>{dtdate}</b>
-      </p>
-      <Button color="primary">Button</Button>
-      <div></div>
-
-      {!data ? (
-        <p className="text-red-500">Could not load data.</p>
-      ) : (
-        <pre className="bg-gray-100 p-4 rounded-md overflow-x-auto text-sm">
-          {JSON.stringify(data, null, 2)}
-        </pre>
-      )}
+    <div className="min-h-screen p-4 py-24">
+      <DiningHallDropdown
+        diningHall={diningHall}
+        setDiningHall={setDiningHall}
+      />
+      <MealTabs
+        selectedMeal={selectedMeal}
+        setSelectedMeal={setSelectedMeal}
+        setSearchTerm={setSearchTerm}
+      />
+      <Map menu={menu[selectedMeal]} />
+      <h1 className="pb-10 mt-24 pt-24 border-dotted border-t-8 text-5xl underline text-center flex items-center justify-center">{`Full ${selectedMeal} Menu`}</h1>
+      <div className="flex justify-center mb-8">
+        <input
+          type="text"
+          placeholder="Search menu items..."
+          value={searchTerm}
+          onChange={(e) => setSearchTerm(e.target.value)}
+          className="w-120 text-xl rounded-xl border-4 border-dashed border-fuchsia-400 bg-fuchsia-100 px-4 py-3 text-fuchsia-500 placeholder-fuchsia-500/60 focus:outline-none focus:ring-2 focus:border-solid focus:ring-fuchsia-400"
+        />
+      </div>
+      <MenuGrid filteredMenu={filteredMenu} menu={menu} />
     </div>
   );
 }
