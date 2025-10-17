@@ -7,12 +7,14 @@ import { Concert_One } from "next/font/google";
 const concertOne = Concert_One({ subsets: ["latin"], weight: ["400"] });
 import { Accordion, AccordionItem } from "@heroui/accordion";
 import { Tabs, Tab } from "@heroui/tabs";
-import { Sun, SunriseIcon, Moon } from "lucide-react";
 import Map from "@/components/map";
+
+const capitalize = (str: string) => str.charAt(0).toUpperCase() + str.slice(1);
 
 export default function Home() {
   const [menu, setMenu] = useState(null);
   const [loading, setLoading] = useState(true);
+  const [selectedMeal, setSelectedMeal] = useState<string>("Breakfast");
 
   useEffect(() => {
     async function fetchMenu() {
@@ -39,11 +41,10 @@ export default function Home() {
 
   if (!menu)
     return (
-      <div className="text-center text-gray-500 mt-10">
-        No breakfast data found.
-      </div>
+      <div className="text-center text-gray-500 mt-10">No menu data found.</div>
     );
 
+  // TODO: dynamically generate tabs
   let tabs = [
     {
       id: "breakfast",
@@ -64,59 +65,60 @@ export default function Home() {
       <div className="text-fuchsia-900 text-center text-5xl p-5 py-15 flex justify-center">
         South Dining Hall
       </div>
-      <Map menu={menu["Lunch"]} />
+
       <Tabs
+        onSelectionChange={(key) => {
+          setSelectedMeal(capitalize(key.toString()));
+        }}
         className="flex pb-10 justify-center"
         variant="underlined"
         aria-label="Dynamic tabs"
         items={tabs}
       >
         {(item) => (
-          <Tab className="text-xl" key={item.id} title={item.label}>
-            <div className="grid p-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 auto-rows-min">
-              {Object.entries(menu[item.label]).map(
-                ([section, items]: [string, any], i: number) => (
-                  <Card
-                    key={section}
-                    className={`bg-fuchsia-100 hover:shadow-lg transition-all duration-200 p-0 rounded-xl
-        ${items.length > 5 ? "md:col-span-2" : "md:col-span-1"}`}
-                  >
-                    <Accordion defaultExpandedKeys={["1"]}>
-                      <AccordionItem
-                        className="text-fuchsia-900 font-semibold text-lg rounded-t-xl p-4"
-                        key="1"
-                        aria-label={section}
-                        title={section}
-                      >
-                        <CardBody
-                          className={`space-y-2 ${concertOne.className}`}
-                        >
-                          {items.map((item: any, j: number) => {
-                            const name = Object.keys(item)[0];
-                            const { tags } = item[name];
-                            return (
-                              <div key={j}>
-                                <p className="font-medium text-fuchsia-900">
-                                  {name}
-                                </p>
-                                {tags && tags.length > 0 && (
-                                  <p className="text-xs text-fuchsia-700">
-                                    {tags.join(", ")}
-                                  </p>
-                                )}
-                              </div>
-                            );
-                          })}
-                        </CardBody>
-                      </AccordionItem>
-                    </Accordion>
-                  </Card>
-                ),
-              )}
-            </div>
-          </Tab>
+          <Tab className="text-xl" key={item.id} title={item.label}></Tab>
         )}
       </Tabs>
+      <Map menu={menu[selectedMeal]} />
+
+      <h1 className="pb-10 pt-24 border-dotted border-t-8 text-5xl text-fuchsia-900 underline text-center flex justify-center">{`Full ${selectedMeal} Menu`}</h1>
+      <div className="grid p-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 auto-rows-min">
+        {Object.entries(menu[selectedMeal]).map(
+          ([section, items]: [string, any], i: number) => (
+            <Card
+              key={section}
+              className={`bg-fuchsia-100 hover:shadow-lg transition-all duration-200 p-0 rounded-xl
+        ${items.length > 5 ? "md:col-span-2" : "md:col-span-1"}`}
+            >
+              <Accordion defaultExpandedKeys={["1"]}>
+                <AccordionItem
+                  className="text-fuchsia-900 font-semibold text-lg rounded-t-xl p-4"
+                  key="1"
+                  aria-label={section}
+                  title={section}
+                >
+                  <CardBody className={`space-y-2 ${concertOne.className}`}>
+                    {items.map((item: any, j: number) => {
+                      const name = Object.keys(item)[0];
+                      const { tags } = item[name];
+                      return (
+                        <div key={j}>
+                          <p className="font-medium text-fuchsia-900">{name}</p>
+                          {tags && tags.length > 0 && (
+                            <p className="text-xs text-fuchsia-700">
+                              {tags.join(", ")}
+                            </p>
+                          )}
+                        </div>
+                      );
+                    })}
+                  </CardBody>
+                </AccordionItem>
+              </Accordion>
+            </Card>
+          ),
+        )}
+      </div>
     </div>
   );
 }
