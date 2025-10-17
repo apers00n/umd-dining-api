@@ -73,7 +73,7 @@ export default function Home() {
         setSelectedMeal={setSelectedMeal}
         setSearchTerm={setSearchTerm}
       />
-      <Map menu={menu[selectedMeal]} />
+      <Map menu={menu[selectedMeal]} hall={diningHall} />
       <h1 className="pb-10 mt-24 pt-24 border-dotted border-t-8 text-5xl underline text-center flex items-center justify-center">{`Full ${selectedMeal} Menu`}</h1>
       <div className="flex justify-center mb-8">
         <input

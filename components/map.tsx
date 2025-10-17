@@ -1,75 +1,28 @@
 "use client";
 
 import { useState } from "react";
-import {
-  BreakfastBar,
-  PeanutButter,
-  PurpleZone,
-  Treats,
-  Pizza,
-  RomaVeganSaladsAndPanini,
-  Beverages,
-  MongolianGrill,
-  Pasta,
-  GrillWorks,
-  ChefsTable,
-  Roaster,
-  SoftServeandIceCream,
-  Desserts,
-  BroilerWorks,
-  DeliPlus,
-  Deli,
-  Waffles,
-  Condiments,
-  InfusedWaterStation,
-  SaladBar,
-} from "./svgRects";
+
 import { Concert_One } from "next/font/google";
+import { SouthCampusSVG } from "./maps/SouthCampus";
+import { NorthSVG } from "./maps/251";
 
 const concertOne = Concert_One({ subsets: ["latin"], weight: ["400"] });
 
-export function Map({ menu }: { menu: Record<string, any> }) {
+export function Map({
+  menu,
+  hall,
+}: {
+  menu: Record<string, any>;
+  hall: string;
+}) {
   const [selected, setSelected] = useState<string[]>([]);
 
   return (
     <div className="flex flex-col items-center w-full p-6">
-      <div className="w-full max-w-3xl">
-        <svg
-          viewBox="0 0 490 415"
-          xmlns="http://www.w3.org/2000/svg"
-          className="w-full h-auto rounded-lg"
-        >
-          <image
-            x="5"
-            y="3"
-            width="507.47"
-            height="411.43"
-            href="/SouthCampus.png"
-            preserveAspectRatio="xMidYMid meet"
-          />
-          <Treats setSelected={setSelected} />
-          <BreakfastBar setSelected={setSelected} />
-          <PeanutButter setSelected={setSelected} />
-          <PurpleZone setSelected={setSelected} />
-          <Pizza setSelected={setSelected} />
-          <RomaVeganSaladsAndPanini setSelected={setSelected} />
-          <Beverages setSelected={setSelected} />
-          <MongolianGrill setSelected={setSelected} />
-          <Pasta setSelected={setSelected} />
-          <GrillWorks setSelected={setSelected} />
-          <ChefsTable setSelected={setSelected} />
-          <Roaster setSelected={setSelected} />
-          <SoftServeandIceCream setSelected={setSelected} />
-          <Desserts setSelected={setSelected} />
-          <BroilerWorks setSelected={setSelected} />
-          <DeliPlus setSelected={setSelected} />
-          <Deli setSelected={setSelected} />
-          <Waffles setSelected={setSelected} />
-          <Condiments setSelected={setSelected} />
-          <InfusedWaterStation setSelected={setSelected} />
-          <SaladBar setSelected={setSelected} />
-        </svg>
-      </div>
+      {hall === "South Dining Hall" && (
+        <SouthCampusSVG setSelected={setSelected} />
+      )}
+      {hall === "251 North" && <NorthSVG setSelected={setSelected} />}
 
       {selected.length > 0 && (
         <div className="mt-8 w-full flex flex-wrap gap-6 justify-center">
