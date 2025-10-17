@@ -8,19 +8,39 @@ const concertOne = Concert_One({ subsets: ["latin"], weight: ["400"] });
 import { Accordion, AccordionItem } from "@heroui/accordion";
 import { Tabs, Tab } from "@heroui/tabs";
 import Map from "@/components/map";
-
+import {
+  Dropdown,
+  DropdownTrigger,
+  DropdownMenu,
+  DropdownItem,
+} from "@heroui/dropdown";
 const capitalize = (str: string) => str.charAt(0).toUpperCase() + str.slice(1);
+
+const diningHalls2: Record<string, number> = {
+  "South Dining Hall": 16,
+  Yahentamitsi: 19,
+  "251 North": 51,
+};
+const tabs = [
+  { id: "breakfast", label: "Breakfast" },
+  { id: "lunch", label: "Lunch" },
+  { id: "dinner", label: "Dinner" },
+];
 
 export default function Home() {
   const [menu, setMenu] = useState<any>(null);
   const [loading, setLoading] = useState(true);
   const [selectedMeal, setSelectedMeal] = useState<string>("Breakfast");
   const [searchTerm, setSearchTerm] = useState("");
+  const [diningHall, setDiningHall] = useState<string>("South Dining Hall");
 
   useEffect(() => {
     async function fetchMenu() {
       try {
-        const res = await fetch("/api/menu?locationNum=16");
+        console.log(diningHalls2[diningHall]);
+        const res = await fetch(
+          `/api/menu?locationNum=${diningHalls2[diningHall] || "16"}`,
+        );
         const data = await res.json();
         setMenu(data);
       } catch (err) {
@@ -31,7 +51,7 @@ export default function Home() {
     }
 
     fetchMenu();
-  }, []);
+  }, [diningHall]);
 
   if (loading)
     return (
@@ -47,16 +67,11 @@ export default function Home() {
 
   if (!menu)
     return (
-      <div className="text-center text-gray-500 mt-10">No menu data found.</div>
+      <div className="text-center text-gray-500 mt-10">
+        <h1>No menu data found.</h1>
+      </div>
     );
 
-  const tabs = [
-    { id: "breakfast", label: "Breakfast" },
-    { id: "lunch", label: "Lunch" },
-    { id: "dinner", label: "Dinner" },
-  ];
-
-  // --- filter menu based on search term ---
   const filteredMenu = (
     Object.entries(menu[selectedMeal] || {}) as [string, any[]][]
   ).reduce((acc: Record<string, any[]>, [section, items]) => {
@@ -74,7 +89,30 @@ export default function Home() {
 
   return (
     <div className="min-h-screen py-24">
-      <div className="text-center text-5xl p-5">South Dining Hall</div>
+      <Dropdown className="bg-fuchsia-100 shadow-none">
+        <DropdownTrigger>
+          <h1 className="text-center text-5xl p-5">{diningHall}</h1>
+        </DropdownTrigger>
+        <DropdownMenu
+          itemClasses={{
+            title: "text-5xl text-center",
+          }}
+          classNames={{
+            base: "bg-transparent items-center justify-center",
+          }}
+        >
+          {Object.entries(diningHalls2).map(([name, num]) => (
+            <DropdownItem
+              key={name}
+              onPress={() => {
+                setDiningHall(name);
+              }}
+            >
+              {name}
+            </DropdownItem>
+          ))}
+        </DropdownMenu>
+      </Dropdown>
 
       <Tabs
         onSelectionChange={(key) => {
