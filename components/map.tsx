@@ -28,22 +28,8 @@ import {
 export default function Map({ menu }: { menu: Record<string, any> }) {
   const [selected, setSelected] = useState<string[]>([]);
 
-  // const setSelected = (name: string) => {
-  //   setSelected((prev) =>
-  //     prev.includes(name) ? prev.filter((n) => n !== name) : [...prev, name],
-  //   );
-  // };
-
   return (
     <div className="flex flex-col items-center w-full min-h-screen p-6">
-      <h1 className="text-3xl font-bold mb-4">Dining Hall Layout</h1>
-      {selected.length > 0 && (
-        <h2 className="text-lg text-fuchsia-700 mb-4">
-          Selected: {selected.join(", ")}
-        </h2>
-      )}
-
-      {/* SVG floor plan */}
       <div className="w-full max-w-3xl">
         <svg
           viewBox="0 0 490 415"
