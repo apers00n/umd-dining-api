@@ -20,7 +20,7 @@ import {
   Condiments,
   InfusedWaterStation,
   SaladBar,
-} from "../svgRects";
+} from "./svgRects";
 
 export const SouthCampusSVG = ({ setSelected }: { setSelected: any }) => {
   return (
