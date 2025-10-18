@@ -5,6 +5,7 @@ import { useState } from "react";
 import { Concert_One } from "next/font/google";
 import { SouthCampusSVG } from "./maps/SouthCampus";
 import { NorthSVG } from "./maps/251";
+import { Yahentamitsi } from "./maps/Y";
 
 const concertOne = Concert_One({ subsets: ["latin"], weight: ["400"] });
 
@@ -23,6 +24,7 @@ export function Map({
         <SouthCampusSVG setSelected={setSelected} />
       )}
       {hall === "251 North" && <NorthSVG setSelected={setSelected} />}
+      {hall === "Yahentamitsi" && <Yahentamitsi setSelected={setSelected} />}
 
       {selected.length > 0 && (
         <div className="mt-8 w-full flex flex-wrap gap-6 justify-center">
