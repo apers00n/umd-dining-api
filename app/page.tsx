@@ -22,6 +22,10 @@ export default function Home() {
         );
         const data = await res.json();
         setMenu(data);
+        if (!data[selectedMeal]) {
+          // basically when there's brunch, not breakfast
+          setSelectedMeal(Object.keys(data)[0]);
+        }
       } catch (err) {
         console.error("Error fetching menu:", err);
       } finally {
