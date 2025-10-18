@@ -69,6 +69,10 @@ export default function Home() {
         setDiningHall={setDiningHall}
       />
       <MealTabs
+        tabItems={Object.keys(menu).map((key) => ({
+          id: key.toLowerCase(),
+          label: key,
+        }))}
         selectedMeal={selectedMeal}
         setSelectedMeal={setSelectedMeal}
         setSearchTerm={setSearchTerm}

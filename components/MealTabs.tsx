@@ -4,12 +4,14 @@ import { capitalize, mealsTabs } from "@/lib/constants";
 
 interface Props {
   selectedMeal: string;
+  tabItems?: { id: string; label: string }[];
   setSelectedMeal: (meal: string) => void;
   setSearchTerm: (term: string) => void;
 }
 
 export function MealTabs({
   selectedMeal,
+  tabItems = mealsTabs,
   setSelectedMeal,
   setSearchTerm,
 }: Props) {
@@ -22,7 +24,7 @@ export function MealTabs({
       className="flex pb-6 justify-center"
       variant="underlined"
       aria-label="Dynamic tabs"
-      items={mealsTabs}
+      items={tabItems}
       classNames={{
         tabContent:
           "text-fuchsia-600/50 group-data-[selected=true]:text-fuchsia-600",

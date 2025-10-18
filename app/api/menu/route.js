@@ -1,10 +1,13 @@
 import { scrapeMenu } from "@/lib/scrape";
-import { cachedDataVersionTag } from "node:v8";
 import { createClient } from "redis";
 
 export const dynamic = "force-dynamic"; // ensures this runs server-side
+
+//umd time zone
 const formatDate = (d) =>
-  `${d.getMonth() + 1}/${d.getDate()}/${d.getFullYear()}`;
+  new Date(
+    d.toLocaleString("en-US", { timeZone: "America/New_York" }),
+  ).toLocaleDateString("en-US");
 
 export async function GET(req) {
   const { searchParams } = new URL(req.url);
