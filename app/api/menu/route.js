@@ -12,7 +12,7 @@ const formatDate = (d) =>
 export async function GET(req) {
   const { searchParams } = new URL(req.url);
   const locationNum = searchParams.get("locationNum");
-  const dtdate = searchParams.get("dtdate") || formatDate(new Date());
+  const dtdate = searchParams.get("date") || formatDate(new Date());
 
   if (!locationNum || !dtdate) {
     return new Response(

@@ -5,7 +5,8 @@ import DiningHallDropdown from "@/components/DiningHallDropdown";
 import { MealTabs } from "@/components/MealTabs";
 import { MenuGrid } from "@/components/MenuGrid";
 import { Map } from "@/components/map";
-import { diningHalls } from "@/lib/constants";
+import { diningHalls, formatDate } from "@/lib/constants";
+import DateSelect from "@/components/DateSelect";
 
 export default function Home() {
   const [menu, setMenu] = useState<any>(null);
@@ -13,12 +14,14 @@ export default function Home() {
   const [selectedMeal, setSelectedMeal] = useState<string>("Breakfast");
   const [searchTerm, setSearchTerm] = useState("");
   const [diningHall, setDiningHall] = useState<string>("South Dining Hall");
+  const [date, setDate] = useState(new Date());
 
   useEffect(() => {
     async function fetchMenu() {
+      setLoading(true);
       try {
         const res = await fetch(
-          `/api/menu?locationNum=${diningHalls[diningHall] || 16}`,
+          `/api/menu?locationNum=${diningHalls[diningHall] || 16}&date=${formatDate(date)}`,
         );
         const data = await res.json();
         setMenu(data);
@@ -33,7 +36,7 @@ export default function Home() {
       }
     }
     fetchMenu();
-  }, [diningHall]);
+  }, [diningHall, date]);
 
   if (loading)
     return (
@@ -72,6 +75,7 @@ export default function Home() {
         diningHall={diningHall}
         setDiningHall={setDiningHall}
       />
+      <DateSelect date={date} setDate={setDate} />
       <MealTabs
         tabItems={Object.keys(menu).map((key) => ({
           id: key.toLowerCase(),
