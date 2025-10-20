@@ -49,11 +49,7 @@ export default function DateSelect({ date, setDate }: DateSelectProps) {
       >
         {dates.map((d) => {
           const formatted = formatDate(d);
-          return (
-            <SelectItem key={d.toDateString()} value={d.toISOString()}>
-              {formatted}
-            </SelectItem>
-          );
+          return <SelectItem key={d.toISOString()}>{formatted}</SelectItem>;
         })}
       </Select>
     </div>
