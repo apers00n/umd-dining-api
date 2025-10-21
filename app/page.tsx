@@ -17,6 +17,15 @@ export default function Home() {
   const [date, setDate] = useState(new Date());
 
   useEffect(() => {
+    const saved = localStorage.getItem("diningHall");
+    if (saved) setDiningHall(saved);
+  }, []);
+
+  useEffect(() => {
+    localStorage.setItem("diningHall", diningHall);
+  }, [diningHall]);
+
+  useEffect(() => {
     async function fetchMenu() {
       setLoading(true);
       try {
@@ -38,20 +47,16 @@ export default function Home() {
     fetchMenu();
   }, [diningHall, date]);
 
-  const filteredMenu =
-    menu === null
-      ? null
-      : Object.entries(menu[selectedMeal] || {}).reduce(
-          (acc: Record<string, any[]>, [section, items]: [string, any]) => {
-            const filteredItems = items.filter((item: any) => {
-              const name = Object.keys(item)[0];
-              return name.toLowerCase().includes(searchTerm.toLowerCase());
-            });
-            if (filteredItems.length > 0) acc[section] = filteredItems;
-            return acc;
-          },
-          {},
-        );
+  const filteredMenu = Object.entries(
+    menu === null ? {} : menu[selectedMeal] || {},
+  ).reduce((acc: Record<string, any[]>, [section, items]: [string, any]) => {
+    const filteredItems = items.filter((item: any) => {
+      const name = Object.keys(item)[0];
+      return name.toLowerCase().includes(searchTerm.toLowerCase());
+    });
+    if (filteredItems.length > 0) acc[section] = filteredItems;
+    return acc;
+  }, {});
 
   return (
     <div className="min-h-screen p-4 py-24">
