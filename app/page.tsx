@@ -17,8 +17,8 @@ export default function Home() {
   const [date, setDate] = useState(new Date());
 
   useEffect(() => {
-    const saved = localStorage.getItem("diningHall");
-    if (saved) setDiningHall(saved);
+    const diningSaved = localStorage.getItem("diningHall");
+    if (diningSaved) setDiningHall(diningSaved);
   }, []);
 
   useEffect(() => {
