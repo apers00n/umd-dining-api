@@ -7,9 +7,9 @@
 <br>
 
 <p float="middle">
-  <img src="./docs/images/2.png" width="28%" />
-  <img src="./docs/images/1.png" width="35%" />
-  <img src="./docs/images/3.png" width="28%" />
+  <img src="./docs/images/2.png" width="29%" />
+  <img src="./docs/images/1.png" width="38%" />
+  <img src="./docs/images/3.png" width="29%" />
 </p>
 <p align="center">
     <img alt="preview" src="./docs/images/big.png" >
