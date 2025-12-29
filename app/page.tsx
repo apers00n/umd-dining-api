@@ -34,9 +34,11 @@ export default function Home() {
         );
         const data = await res.json();
         setMenu(data);
-        if (!data[selectedMeal]) {
-          // basically when there's brunch, not breakfast
-          setSelectedMeal(Object.keys(data)[0]);
+        if (Object.keys(data).length !== 0) {
+          if (!data[selectedMeal]) {
+            // basically when there's brunch, not breakfast
+            setSelectedMeal(Object.keys(data)[0]);
+          }
         }
       } catch (err) {
         console.error("Error fetching menu:", err);
@@ -75,13 +77,13 @@ export default function Home() {
           />
         </div>
       )}
-      {!loading && !menu && (
+      {!loading && (!menu || Object.keys(menu).length === 0) && (
         <div className="text-center text-gray-500 mt-10">
           <h1>No menu data found.</h1>
         </div>
       )}
 
-      {!loading && menu && (
+      {!loading && menu && Object.keys(menu).length !== 0 && (
         <>
           <MealTabs
             tabItems={Object.keys(menu).map((key) => ({

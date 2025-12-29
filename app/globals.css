@@ -8,6 +8,9 @@
 :root {
   --background: rgba(245 208 254 / 0.5);
   --foreground: rgb(112, 26, 117);
+  --personalF-100: #f0abfc; /* maps roughly to fuchsia-400 */
+  --personalF-200: #e879f9; /* fuchsia-500 */
+  --personalF-300: #d946ef; /* fuchsia-600 */
 }
 
 @theme inline {
@@ -19,8 +22,11 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: rgba(112, 26, 117);
+    --foreground: rgb(245 208 254 / 0.5);
+    --personalF-100: #e0a0ff; /* darker variant */
+    --personalF-200: #c77dff;
+    --personalF-300: #a855f7;
   }
 }
 
@@ -36,4 +42,7 @@ body {
   font-family: "Coiny", system-ui;
   font-weight: 400;
   font-style: normal;
+  transition:
+    background-color 0.3s,
+    color 0.3s;
 }
